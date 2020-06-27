@@ -1,0 +1,1951 @@
+{
+    "objectIdFieldName": "OBJECTID",
+    "uniqueIdField": {
+        "name": "OBJECTID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "GlobalID",
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "transform": {
+        "originPosition": "upperLeft",
+        "scale": [76.437028285156316, 76.437028285156316],
+        "translate": [-10684062.065588994, 4735426.7763249874]
+    },
+    "fields": [{
+        "name": "OBJECTID",
+        "type": "esriFieldTypeOID",
+        "alias": "OBJECTID",
+        "sqlType": "sqlTypeOther",
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "LocationID",
+        "type": "esriFieldTypeDouble",
+        "alias": "LocationID",
+        "sqlType": "sqlTypeOther",
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Agency",
+        "type": "esriFieldTypeString",
+        "alias": "Agency",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "AgencyContactName",
+        "type": "esriFieldTypeString",
+        "alias": "AgencyContactName",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "AgencyContactPhone",
+        "type": "esriFieldTypeString",
+        "alias": "AgencyContactPhone",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "AgencyContactEmail",
+        "type": "esriFieldTypeString",
+        "alias": "AgencyContactEmail",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "AgencyWebsite",
+        "type": "esriFieldTypeString",
+        "alias": "AgencyWebsite",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Address_Description",
+        "type": "esriFieldTypeString",
+        "alias": "Address_Description",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Dates_Times",
+        "type": "esriFieldTypeString",
+        "alias": "Dates_Times",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Details",
+        "type": "esriFieldTypeString",
+        "alias": "Details",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "MapAddress",
+        "type": "esriFieldTypeString",
+        "alias": "MapAddress",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Type_Distribution",
+        "type": "esriFieldTypeString",
+        "alias": "Type_Distribution",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": {
+            "type": "codedValue",
+            "name": "FoodDistributionSites_Type_Distribution_adfd97cd-1aad-4fc3-8d51-e334cc044ff7",
+            "codedValues": [{
+                "name": "Meals 18 and Under",
+                "code": "Meals 18 and Under"
+            }, {
+                "name": "Meals All Ages",
+                "code": "Meals All Ages"
+            }, {
+                "name": "Pantry Items",
+                "code": "Pantry Items"
+            }, {
+                "name": "Delivery",
+                "code": "Delivery"
+            }, {
+                "name": "Other",
+                "code": "Other"
+            }]
+        },
+        "defaultValue": null
+    }, {
+        "name": "Additional_Information",
+        "type": "esriFieldTypeString",
+        "alias": "Additional_Information",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Status",
+        "type": "esriFieldTypeString",
+        "alias": "Status",
+        "sqlType": "sqlTypeOther",
+        "length": 255,
+        "domain": {
+            "type": "codedValue",
+            "name": "FoodDistributionSites_Status_666d7c77-19e8-4be3-8d99-d404ebbb931f",
+            "codedValues": [{
+                "name": "Active",
+                "code": "Active"
+            }, {
+                "name": "Inactive",
+                "code": "Inactive"
+            }, {
+                "name": "Under Review",
+                "code": "Under Review"
+            }]
+        },
+        "defaultValue": null
+    }, {
+        "name": "Long_X",
+        "type": "esriFieldTypeDouble",
+        "alias": "Long_X",
+        "sqlType": "sqlTypeOther",
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Lat_Y",
+        "type": "esriFieldTypeDouble",
+        "alias": "Lat_Y",
+        "sqlType": "sqlTypeOther",
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "GlobalID",
+        "type": "esriFieldTypeGlobalID",
+        "alias": "GlobalID",
+        "sqlType": "sqlTypeOther",
+        "length": 38,
+        "domain": null
+    }, {
+        "name": "CreationDate",
+        "type": "esriFieldTypeDate",
+        "alias": "CreationDate",
+        "sqlType": "sqlTypeOther",
+        "length": 8,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Creator",
+        "type": "esriFieldTypeString",
+        "alias": "Creator",
+        "sqlType": "sqlTypeOther",
+        "length": 128,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "EditDate",
+        "type": "esriFieldTypeDate",
+        "alias": "EditDate",
+        "sqlType": "sqlTypeOther",
+        "length": 8,
+        "domain": null,
+        "defaultValue": null
+    }, {
+        "name": "Editor",
+        "type": "esriFieldTypeString",
+        "alias": "Editor",
+        "sqlType": "sqlTypeOther",
+        "length": 128,
+        "domain": null,
+        "defaultValue": null
+    }],
+    "features": [{
+        "attributes": {
+            "OBJECTID": 23,
+            "LocationID": 23,
+            "Agency": "Salvation Army",
+            "AgencyContactName": "Shelley Robertson",
+            "AgencyContactPhone": "785-233-9648",
+            "AgencyContactEmail": "shelley.robertson@usc.salvationarmy.org",
+            "AgencyWebsite": "https://centralusa.salvationarmy.org/topeka/",
+            "Address_Description": "Pioneer Adams Apartments",
+            "Dates_Times": null,
+            "Details": "Free Grab and Go lunches ",
+            "MapAddress": "2024 SE MASSACHUSETTS",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6681261947295,
+            "Lat_Y": 39.0305965822875,
+            "GlobalID": "f0104007-7232-4f64-aa51-a287e366a00b",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 449,
+            "y": 123
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 69,
+            "LocationID": 70,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Highland Park High School (2424 SE California Ave);\n",
+            "Dates_Times": "Starts June 1, 2020,11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "2424 SE CALIFORNIA AVE",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6502088962628,
+            "Lat_Y": 39.0235528048545,
+            "GlobalID": "e1474de8-422f-4411-9ce1-df45eb27b514",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590596695703,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 475,
+            "y": 136
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 92,
+            "LocationID": 93,
+            "Agency": "West Side Baptist Church ",
+            "AgencyContactName": null,
+            "AgencyContactPhone": "785-233-4241 ",
+            "AgencyContactEmail": null,
+            "AgencyWebsite": "https://wsbctopeka.org/",
+            "Address_Description": "1008 SW 4th St ",
+            "Dates_Times": "Wed. 4:00pm-6:00pm",
+            "Details": "Harvesters pantry, onsite and mobile distribution",
+            "MapAddress": "1008 SW 4TH ST",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6852719751519,
+            "Lat_Y": 39.0582042689816,
+            "GlobalID": "ed4063c7-9975-4c31-ae5a-493041394ba7",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590081132918,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 424,
+            "y": 71
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 75,
+            "LocationID": 76,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Pine Ridge Prep (1110 SE Highland Ave); ",
+            "Dates_Times": "Starts June 1, 2020, 11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "1110 SE HIGHLAND AVE",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6421258725063,
+            "Lat_Y": 39.0362300168677,
+            "GlobalID": "58fb32ab-79e1-4f43-9cda-6d7a142d511e",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590596999033,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 487,
+            "y": 112
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 9,
+            "LocationID": 9,
+            "Agency": "Community Action, Inc.-Harvesters Mobile Food Pantry",
+            "AgencyContactName": "Teresa Sowell",
+            "AgencyContactPhone": "785-836-4535",
+            "AgencyContactEmail": "tsowell@wefightpoverty.org",
+            "AgencyWebsite": " http://www.wefightpoverty.org/",
+            "Address_Description": "Mobile food pantries in Auburn will continue as scheduled",
+            "Dates_Times": "Auburn Food Pantry-4th Friday, 12:30pm-1:30pm",
+            "Details": "Auburn Community Center",
+            "MapAddress": "121 W 11TH ST",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "Distributions may be rescheduled, added or canceled due to weather, holidays or unforeseen circumstances.",
+            "Status": "Active",
+            "Long_X": -95.8171253172641,
+            "Lat_Y": 38.9096736388516,
+            "GlobalID": "2350cc92-7bd5-45f3-a954-0319fd8d0be9",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1591114972283,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 232,
+            "y": 349
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 15,
+            "LocationID": 15,
+            "Agency": "I Care",
+            "AgencyContactName": null,
+            "AgencyContactPhone": "785-267-5910",
+            "AgencyContactEmail": null,
+            "AgencyWebsite": "http://icaretopeka.org/site/",
+            "Address_Description": "Located in Highland Park United Methodist Church, 2914 SE Michigan",
+            "Dates_Times": "Mon-Fri 8:30am-11:30am/Tues. 5:30pm-7:30pm",
+            "Details": "Serving SE Topeka, current piece of mail with date showing current address-SS Card for each person in household",
+            "MapAddress": "2914 SE MICHIGAN AVE",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6581863108952,
+            "Lat_Y": 39.0144413891357,
+            "GlobalID": "1d87825f-245e-4ae3-8e92-e47ca7a3537c",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590681134210,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 464,
+            "y": 153
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 89,
+            "LocationID": 90,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Highland Park High (1205-1220)",
+            "Dates_Times": "MON-FRI 1205-1220",
+            "Details": "Lunch Sites (Salvation Army)- Food provided by Salvation Army",
+            "MapAddress": "2424 SE CALIFORNIA AVE",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6502088962628,
+            "Lat_Y": 39.0235528048545,
+            "GlobalID": "42104887-48e3-454f-b298-e4453aeb9690",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 475,
+            "y": 136
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 95,
+            "LocationID": null,
+            "Agency": "USD 501 Topeka Public School",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagner@tps501.org",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Westminster Church, 1275 SW Boswell",
+            "Dates_Times": "Starting June 1, 2020, M/W/F 11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "1275 SW Boswell",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": null,
+            "Status": "Active",
+            "Long_X": null,
+            "Lat_Y": null,
+            "GlobalID": "95d95457-3eee-4536-8772-8beffbaad89c",
+            "CreationDate": 1590608811676,
+            "Creator": "ljmartin.ksu",
+            "EditDate": 1590609191494,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 399,
+            "y": 99
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 72,
+            "LocationID": 73,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Meadows Elementary School (201 SW Clay St);",
+            "Dates_Times": "Starts June 1, 2020,  11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "201 SW CLAY ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6857242363473,
+            "Lat_Y": 39.0602469808502,
+            "GlobalID": "c5a0aad6-bd79-494b-bed6-af17cb66aa7e",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590596844515,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 424,
+            "y": 67
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 78,
+            "LocationID": 79,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Robinson Middle School (1125 SW 14th St); ",
+            "Dates_Times": "Starts June 1, 2020, 11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "1125 SW 14TH ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6927672694059,
+            "Lat_Y": 39.0406084233837,
+            "GlobalID": "7bee3b76-e5ff-4dde-8f96-3f067f796402",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590597268818,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 413,
+            "y": 104
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 26,
+            "LocationID": 26,
+            "Agency": "Shawnee County Sheriff Office",
+            "AgencyContactName": null,
+            "AgencyContactPhone": null,
+            "AgencyContactEmail": null,
+            "AgencyWebsite": null,
+            "Address_Description": "Citizen to call/place order at participating store: Dillons, Walmart, Hy-Vee, Wehner's. Will only pick up in stores to addresses in Shawnee CO.  All orders must be prepaid. Then call. Citizens must provide name, date of birth, address, phone #.",
+            "Dates_Times": "Mon-Fri 8:00am-4:00pm",
+            "Details": "Good Neighbor Program to assist elderly, handicapped and vulnerable citizens with the delivery of essential food items; offered to high risk citizens who do not have a support system in place to provide these services",
+            "MapAddress": "320 S. KANSAS AVE",
+            "Type_Distribution": "Delivery",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6705945578408,
+            "Lat_Y": 39.0544741781265,
+            "GlobalID": "856dd2ac-c45e-4f44-bddf-047ebf2001ad",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590684317175,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 446,
+            "y": 78
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 12,
+            "LocationID": 12,
+            "Agency": "Doorstep Inc.",
+            "AgencyContactName": "Lisa Cain",
+            "AgencyContactPhone": "785-357-5341",
+            "AgencyContactEmail": "lisa@doorstepinc.com",
+            "AgencyWebsite": "https://doorsteptopeka.org/",
+            "Address_Description": "Phone intake (785-357-5341) for food services only from 9:00am-1:00pm; then clients will come pick up order by 2pm each day (1119 SW 10th Ave.)",
+            "Dates_Times": "Appt. Only",
+            "Details": "Free bread shelf inside south door accessible to public",
+            "MapAddress": "1119 SW 10TH AVE",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6912730469107,
+            "Lat_Y": 39.0496060020476,
+            "GlobalID": "0a97a0b4-6623-4d96-b0a9-d7cb9b27ee10",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 415,
+            "y": 87
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 35,
+            "LocationID": 35,
+            "Agency": "Topeka North Outreach, Inc. ",
+            "AgencyContactName": "Theresa Gartner",
+            "AgencyContactPhone": "785-286-1370",
+            "AgencyContactEmail": "TopekaNorthOutreach@gmail.com",
+            "AgencyWebsite": "https://www.topekanorthoutreach.org/",
+            "Address_Description": "Garfield Community Center (1600 N Quincy);",
+            "Dates_Times": "Fri 1100am-11:30am",
+            "Details": "Operation Backpack food sacks will be \"grab and go\" drive thru; will be given to children who live in N Topeka, Oakland and Surround communities (Proof of address must be shown); first come first serve; Each sack contains 2 day supply",
+            "MapAddress": "1600 N QUINCY",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6605611826285,
+            "Lat_Y": 39.0779090335471,
+            "GlobalID": "64b711ef-4733-425f-9d95-55eb872f4c3b",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590612040363,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 460,
+            "y": 34
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 86,
+            "LocationID": 87,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Back Snacks & Porch Deliveries- provided by Harvesters\nPine Ridge Prep\n",
+            "Dates_Times": null,
+            "Details": "Expanded Meal Services ",
+            "MapAddress": "1110 SE HIGHLAND AVE",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6421258725063,
+            "Lat_Y": 39.0362300168677,
+            "GlobalID": "3c753e7d-a8ae-45d2-a1c8-dc8f4a0db7ff",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 487,
+            "y": 112
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 63,
+            "LocationID": 64,
+            "Agency": "USD 437 Auburn-Washburn ",
+            "AgencyContactName": "Stan Vallis",
+            "AgencyContactPhone": "785-339-4000",
+            "AgencyContactEmail": "vallista@usd437.net",
+            "AgencyWebsite": "http://usd437.net/",
+            "Address_Description": "Pauline Central Elementary School (6625 SW Westview Dr, Topeka) ",
+            "Dates_Times": "Mon-Fri: 1030-Noon",
+            "Details": "Meal Distribution site for grab and go meals free of charge to any child 1 to 18 years old. Audlts can pick up meals without the children present.",
+            "MapAddress": "6625 SW WESTVIEW DR",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.697828497326,
+            "Lat_Y": 38.9469130048853,
+            "GlobalID": "11487b79-0844-4591-811e-e90e89b94e6a",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590674087236,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 406,
+            "y": 279
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 6,
+            "LocationID": 6,
+            "Agency": "Bread of Life",
+            "AgencyContactName": "Trudy OShea-Weir",
+            "AgencyContactPhone": null,
+            "AgencyContactEmail": "tjweir@att.net",
+            "AgencyWebsite": null,
+            "Address_Description": "Timberlee Apartments",
+            "Dates_Times": "Every Sunday except the first Sunday, , 2:00pm-2:30pm",
+            "Details": "Warm Meal Distributions",
+            "MapAddress": "341 SE Lawrence St. Topeka KS 66607",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6562661707436,
+            "Lat_Y": 39.0522240360192,
+            "GlobalID": "7012fe4c-d87b-4762-9694-1061cd34b647",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590694937291,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 467,
+            "y": 85
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 98,
+            "LocationID": null,
+            "Agency": "Topeka North Outreach Operation Backpack",
+            "AgencyContactName": "Theresa Gartner",
+            "AgencyContactPhone": "785-286-1370",
+            "AgencyContactEmail": " youth@topekanorthoutreach.org",
+            "AgencyWebsite": "https://www.topekanorthoutreach.org/operation-backpack",
+            "Address_Description": "Mathes Early Learning Center",
+            "Dates_Times": "Starts June 5, 2020, Fridays 11:00am-11:30am",
+            "Details": "Weekend Food Sacks: 2 day supply of individual size, non-perishable food items",
+            "MapAddress": "2032 N. Kansas Avenue",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": null,
+            "Status": "Active",
+            "Long_X": null,
+            "Lat_Y": null,
+            "GlobalID": "664c8721-d807-45a3-b51b-c4ebf992861c",
+            "CreationDate": 1590673227179,
+            "Creator": "ljmartin.ksu",
+            "EditDate": 1590673704925,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 461,
+            "y": 17
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 27,
+            "LocationID": 27,
+            "Agency": "The Iron Rail",
+            "AgencyContactName": null,
+            "AgencyContactPhone": "785-215-8123",
+            "AgencyContactEmail": "info@ironrailbrewing.com",
+            "AgencyWebsite": "https://www.ironrailbrewing.com/",
+            "Address_Description": "705 S. Kansas Ave",
+            "Dates_Times": "Operating Hours",
+            "Details": "free kids meal with purchase of adult meal",
+            "MapAddress": "705 S KANSAS AVE",
+            "Type_Distribution": "Other",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6744912792125,
+            "Lat_Y": 39.0500924829762,
+            "GlobalID": "f3180a69-1995-4f18-af11-7e2633d4806f",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 440,
+            "y": 86
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 21,
+            "LocationID": 21,
+            "Agency": "Salvation Army",
+            "AgencyContactName": "Shelley Robertson",
+            "AgencyContactPhone": "785-233-9648",
+            "AgencyContactEmail": "shelley.robertson@usc.salvationarmy.org",
+            "AgencyWebsite": "https://centralusa.salvationarmy.org/topeka/",
+            "Address_Description": "Deer Creek Apartments",
+            "Dates_Times": null,
+            "Details": "Free Grab and Go lunches ",
+            "MapAddress": "430 SE Winfield AVE",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.635409718764,
+            "Lat_Y": 39.0467470356227,
+            "GlobalID": "48d18c2c-4c6e-41e5-b80b-5148f6cf0aa6",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 497,
+            "y": 92
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 81,
+            "LocationID": 82,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Chase Middle School (2250 NE State St, Topeka)",
+            "Dates_Times": "Starts June 1, 2020, 11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "2250 NE STATE ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.642070040766,
+            "Lat_Y": 39.0612575954849,
+            "GlobalID": "86c00af2-ea1a-4e9d-a35e-f45ea7db8847",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590597136043,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 487,
+            "y": 65
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 64,
+            "LocationID": 65,
+            "Agency": "USD 450 Shawnee Heights",
+            "AgencyContactName": "Tara Cox",
+            "AgencyContactPhone": "785-730-5032",
+            "AgencyContactEmail": "coxt@usd450.net",
+            "AgencyWebsite": "https://www.usd450.net/",
+            "Address_Description": "Starlite Skate Rink (301 SE 45th St);\n",
+            "Dates_Times": "Starts June 1, 2020 Mon/Wed/Fri 11:00am-12:30pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students; will pick up 2 days worth of meals to limit exposure ",
+            "MapAddress": "301 SW 45TH ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6814334577058,
+            "Lat_Y": 38.9855025782926,
+            "GlobalID": "e1cef3e8-68b9-4438-8ab7-73764d3832af",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590595520026,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 430,
+            "y": 207
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 87,
+            "LocationID": 88,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Pine Ride (1130-1145)",
+            "Dates_Times": "MON-FRI 1130-1145",
+            "Details": "Lunch Sites (Salvation Army)- Food provided by Salvation Army",
+            "MapAddress": "1101 SE HIGHLAND AVE",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6421876379821,
+            "Lat_Y": 39.0364275569941,
+            "GlobalID": "df10e5bf-bb97-4e02-9ed2-6e22458c82ab",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 487,
+            "y": 112
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 44,
+            "LocationID": 44,
+            "Agency": "Topeka North Outreach, Inc. ",
+            "AgencyContactName": "Theresa Gartner",
+            "AgencyContactPhone": "785-286-1370",
+            "AgencyContactEmail": "TopekaNorthOutreach@gmail.com",
+            "AgencyWebsite": "https://www.topekanorthoutreach.org/",
+            "Address_Description": "Evening Star Mobile Park (1441 N Taylor);",
+            "Dates_Times": "Sunday 1:00-1:30pm",
+            "Details": "Operation Backpack food sacks will be \"grab and go\" drive thru; will be given to children who live in N Topeka, Oakland and Surround communities (Proof of address must be shown); first come first serve; Each sack contains a 2 day sup",
+            "MapAddress": "1441 N TAYLOR",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.675759771826,
+            "Lat_Y": 39.075527992828,
+            "GlobalID": "b3c92a7c-cbcb-4c06-af59-2dde920c2ee4",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1591035884452,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 438,
+            "y": 38
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 7,
+            "LocationID": 7,
+            "Agency": "Bread of Life",
+            "AgencyContactName": "Trudy OShea-Weit",
+            "AgencyContactPhone": null,
+            "AgencyContactEmail": "tjweir@att.net",
+            "AgencyWebsite": null,
+            "Address_Description": "Deer Creek Apartments",
+            "Dates_Times": "Every Sunday except the first Sunday, 3:00-4:00pm",
+            "Details": "Bread of Life",
+            "MapAddress": "423 SE Winfield",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": null,
+            "Lat_Y": null,
+            "GlobalID": "03272772-110c-4a23-8acb-cd1cd8cfb3d2",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590695518009,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 497,
+            "y": 87
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 1,
+            "LocationID": 1,
+            "Agency": "5 Loaves & 2 Fish",
+            "AgencyContactName": "Craig Thomas",
+            "AgencyContactPhone": "785-207-6520",
+            "AgencyContactEmail": null,
+            "AgencyWebsite": null,
+            "Address_Description": "Shawnee Heights Mobile Home Park (4420 SW 61st St); serving from the storm shelter/basement under the main office",
+            "Dates_Times": "Mon-Friday @ 12:00",
+            "Details": "Providing free soup and sandwiches to all ages",
+            "MapAddress": "4420 SW 61ST ST",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7286579151283,
+            "Lat_Y": 38.9571215696184,
+            "GlobalID": "85ff87b0-9d3b-4b40-add5-c5c00f4490aa",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 361,
+            "y": 260
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 24,
+            "LocationID": 24,
+            "Agency": "Salvation Army",
+            "AgencyContactName": "Shelley Robertson",
+            "AgencyContactPhone": "785-233-9648",
+            "AgencyContactEmail": "shelley.robertson@usc.salvationarmy.org",
+            "AgencyWebsite": "https://centralusa.salvationarmy.org/topeka/",
+            "Address_Description": "1319 SE 6th Ave, 66607",
+            "Dates_Times": "Tue/Wed/Thu 9:00am-11:00am; 1:00pm-3:30pm",
+            "Details": "Sack lunch for evening meal for individuals and family; no dine in",
+            "MapAddress": "1319 SE 6TH AVE",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6570274876612,
+            "Lat_Y": 39.0472051177114,
+            "GlobalID": "ad3983ba-b9e3-4b3c-bc61-8a93ac209d98",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 465,
+            "y": 91
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 47,
+            "LocationID": 47,
+            "Agency": "Topeka Rescue Mission",
+            "AgencyContactName": "Kay Ireland",
+            "AgencyContactPhone": "785-357-4285",
+            "AgencyContactEmail": "kireland@trmonline.org",
+            "AgencyWebsite": "https://trmonline.org/",
+            "Address_Description": "NW end of the Distribution Center at (401 NW Norris) and stay in vehicle; info collected by staff and food brought to car",
+            "Dates_Times": "Tue/Thur 9:00am-2:00pm",
+            "Details": "Drive thru food distribution",
+            "MapAddress": "401 NW NORRIS",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6714707915526,
+            "Lat_Y": 39.0676988359237,
+            "GlobalID": "fa58c49a-1d28-4ee8-bff8-262b850168d3",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 444,
+            "y": 53
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 70,
+            "LocationID": 71,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "St. David's Episcopal Church (3916 SW 17th St, Topeka);",
+            "Dates_Times": "Starts June 1, 2020, 11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "3916 SW 17TH ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7256484773583,
+            "Lat_Y": 39.0370608686274,
+            "GlobalID": "5b82d509-86e6-41ea-b91e-0751e6f05b85",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590596748369,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 365,
+            "y": 110
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 93,
+            "LocationID": 94,
+            "Agency": "Community Action, Inc",
+            "AgencyContactName": "Teresa Sowell",
+            "AgencyContactPhone": "785-835-4500",
+            "AgencyContactEmail": "tsowell@wefightpoverty.org",
+            "AgencyWebsite": " http://www.wefightpoverty.org/",
+            "Address_Description": "CapFed® Community Care Station",
+            "Dates_Times": "Mon 800-500, Tues Wed  800-700, Thurs 800-500, Fri 800-400, Sat 800-400, Sun Closed",
+            "Details": "Free Food Distribution ",
+            "MapAddress": "2915 SW Wanamaker",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.763,
+            "Lat_Y": 39.014,
+            "GlobalID": "e008d05b-b01c-45f3-aac5-98ebaca4fb79",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 311,
+            "y": 154
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 18,
+            "LocationID": 18,
+            "Agency": "Meals on Wheels",
+            "AgencyContactName": "Heidi Pickerell",
+            "AgencyContactPhone": "785-430-2186",
+            "AgencyContactEmail": "hpickerell@midlandcc.org",
+            "AgencyWebsite": "http://www.mowks.org/",
+            "Address_Description": "2134 SW Westport Dr. 66614",
+            "Dates_Times": "Daily",
+            "Details": "Daily meals continue to be delivered by volunteers to all home bound recipients.  Also offering home delivered meals to those who used to eat in a congegate site, including senior centers and church locations. Please call office to enroll.",
+            "MapAddress": "2134 SW WESTPORT DR",
+            "Type_Distribution": "Delivery",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7553563264287,
+            "Lat_Y": 39.0277327904581,
+            "GlobalID": "4700c0d9-847e-4736-a39a-df48db46feec",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 322,
+            "y": 128
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 124,
+            "LocationID": null,
+            "Agency": "Shawnee County Health Department-WIC",
+            "AgencyContactName": "Kay Powell",
+            "AgencyContactPhone": "785-251-5607",
+            "AgencyContactEmail": null,
+            "AgencyWebsite": null,
+            "Address_Description": null,
+            "Dates_Times": "Call for appointment",
+            "Details": "Breastfeeding mothers, up to baby's first birthday Infants and children under five years old Non-breastfeeding mothers, up to six months after baby's birth Pregnant women Participants must also fall within income guidelines",
+            "MapAddress": "2600 SW East Circle Dr. S",
+            "Type_Distribution": "First Foods",
+            "Additional_Information": "Breastfeeding Support",
+            "Status": "Active",
+            "Long_X": null,
+            "Lat_Y": null,
+            "GlobalID": "87122f62-5c9c-410b-a1b4-a29440a33ece",
+            "CreationDate": 1591291328578,
+            "Creator": "ljmartin.ksu",
+            "EditDate": 1591291440648,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 393,
+            "y": 61
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 84,
+            "LocationID": 85,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Drive-Thru Pantires (Groceries)- Food provided by Harvesters and TPS\nPine Ridge Prep (1110 SE Highland Ave)- Thu 1300\n2nd/4th Thursday of the Month (April 28, May 14, May 28)\n",
+            "Dates_Times": "THU 1300, 2nd/4th Thursday of the month (Apr 28, May 14, May 28)",
+            "Details": "Drive-Thru Pantries (Groceries)- Food provided by Harvesters and TPS",
+            "MapAddress": "1110 SE HIGHLAND AVE",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6421258725063,
+            "Lat_Y": 39.0362300168677,
+            "GlobalID": "43e9d733-91af-40bb-b023-1d7136697dc6",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 487,
+            "y": 112
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 61,
+            "LocationID": 62,
+            "Agency": "USD 437 Auburn-Washburn ",
+            "AgencyContactName": "Stan Vallis",
+            "AgencyContactPhone": "785-339-4000",
+            "AgencyContactEmail": "vallista@usd437.net",
+            "AgencyWebsite": "http://usd437.net/",
+            "Address_Description": "Washburn Rural High School @10:30-Noon\n",
+            "Dates_Times": "Mon-Fri 1030-1200",
+            "Details": "Meal Distribution site for grab and go meals free of charge to any child 1 to 18 years old. Audlts can pick up meals without the children present.",
+            "MapAddress": "5900 SW 61ST ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7596476660411,
+            "Lat_Y": 38.9572822855756,
+            "GlobalID": "4d37a9ff-1456-444e-a085-0835ed2895b6",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 316,
+            "y": 260
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 90,
+            "LocationID": 91,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Ross Elementary (1230-1245)",
+            "Dates_Times": "MON-FRI 1230-1240",
+            "Details": "Lunch Sites (Salvation Army)- Food provided by Salvation Army",
+            "MapAddress": "1400 SE 34TH ST",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6571675747606,
+            "Lat_Y": 39.0068872044351,
+            "GlobalID": "7d7c84af-a6d6-4605-83cb-baed862c37be",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 465,
+            "y": 167
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 4,
+            "LocationID": 4,
+            "Agency": "Boys and Girls Club of Topeka ",
+            "AgencyContactName": "Ali Gatewood",
+            "AgencyContactPhone": "785-234-5601",
+            "AgencyContactEmail": "frontdeskmo@bgctopeka.org",
+            "AgencyWebsite": null,
+            "Address_Description": "\nMontara (Velma Paris Community Center-6715 SE Westview Rd)",
+            "Dates_Times": "Mon-Fri 5:00pm-6:00pm",
+            "Details": "Distributing \"Dinner Dash Packs\" for 18 years and under",
+            "MapAddress": "6715 SE WESTVIEW RD",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6971806847135,
+            "Lat_Y": 38.9454207107271,
+            "GlobalID": "f86e59f3-affc-40eb-abc9-d8d808930333",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 407,
+            "y": 282
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 79,
+            "LocationID": 80,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Jardine Middle School (2600 SW 33rd St);",
+            "Dates_Times": "Starts June 1, 2020, 11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "2600 SW 33RD ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7090547106199,
+            "Lat_Y": 39.009841870587,
+            "GlobalID": "76edf4e3-ecfc-4484-93c6-bd31920f38ee",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590597078959,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 390,
+            "y": 162
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 19,
+            "LocationID": 19,
+            "Agency": "PT's at Wheatfield Village",
+            "AgencyContactName": null,
+            "AgencyContactPhone": "785-596-0030",
+            "AgencyContactEmail": "wheatfieldvillage@ptscoffee.com",
+            "AgencyWebsite": "https://www.ptscoffee.com/pages/pts-at-wheatfield-village",
+            "Address_Description": "2811 SW Fairlawn Rd",
+            "Dates_Times": null,
+            "Details": "free school lunch for any child under 18",
+            "MapAddress": "2811 SW FAIRLAWN RD",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7446432177768,
+            "Lat_Y": 39.0159372712956,
+            "GlobalID": "55a39ddd-3509-4de5-9419-04b5b9d4b5c2",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 338,
+            "y": 150
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 73,
+            "LocationID": 74,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Ross Elementary School (1400 SE 34th St);",
+            "Dates_Times": "Starts June 1. 2020, 11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "1400 SE 34TH ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6571675747606,
+            "Lat_Y": 39.0068872044351,
+            "GlobalID": "743804a2-56da-43d3-ad93-815db2d7de19",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590596868817,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 465,
+            "y": 167
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 25,
+            "LocationID": 25,
+            "Agency": "Salvation Army",
+            "AgencyContactName": "Shelley Robertson",
+            "AgencyContactPhone": "785-233-9648",
+            "AgencyContactEmail": "shelley.robertson@usc.salvationarmy.org",
+            "AgencyWebsite": "https://centralusa.salvationarmy.org/topeka/",
+            "Address_Description": "1320 SE 6th Ave, 66607",
+            "Dates_Times": "Tue/Wed/Thu 9:00am-11:00am; 1:00pm-3:30pm, 4th Mon. 1:00pm-2:00pm-Mobile Food Pantry",
+            "Details": "Giving out TEFAP and Pantry items",
+            "MapAddress": "1320 SE 6TH AVE",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "Mobile Food PantryDistributions may be rescheduled, added or canceled due to weather, holidays or unforeseen circumstances.",
+            "Status": "Active",
+            "Long_X": -95.656877012289,
+            "Lat_Y": 39.0477191049458,
+            "GlobalID": "4c9d4b81-7d0e-4c01-a85f-e85466d562ee",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1591114378745,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 466,
+            "y": 90
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 85,
+            "LocationID": 86,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "\nLowman HIll Elementary",
+            "Dates_Times": "Starts June 1, 2020,  11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "1101 SW GARFIELD AVE",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6987018177201,
+            "Lat_Y": 39.0493161652087,
+            "GlobalID": "abebaeb7-9f72-4284-9922-92acc39e3198",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590597197657,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 405,
+            "y": 88
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 62,
+            "LocationID": 63,
+            "Agency": "USD 437 Auburn-Washburn ",
+            "AgencyContactName": "Stan Vallis",
+            "AgencyContactPhone": "785-339-4000",
+            "AgencyContactEmail": "vallista@usd437.net",
+            "AgencyWebsite": "http://usd437.net/",
+            "Address_Description": "Auburn Elementary (810 N Commercial St, Auburn) @ 10:30-Noon",
+            "Dates_Times": "Mon-Fri 1030-1200",
+            "Details": "Meal Distribution site for grab and go meals free of charge to any child 1 to 18 years old. Audlts can pick up meals without the children present.",
+            "MapAddress": "810 N COMMERCIAL ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.8179715649558,
+            "Lat_Y": 38.9070292625327,
+            "GlobalID": "cd55969a-635e-4418-a232-564651de47f5",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 231,
+            "y": 354
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 13,
+            "LocationID": 13,
+            "Agency": "Fellowship & Faith Ministry",
+            "AgencyContactName": null,
+            "AgencyContactPhone": "785-354-7262",
+            "AgencyContactEmail": "amistadyfe@yahoo.com",
+            "AgencyWebsite": null,
+            "Address_Description": "708 SE Lime St.",
+            "Dates_Times": "Tues-Fri. 9:00am-12:00pm/1:00pm-3:00pm",
+            "Details": "Food Bank/Pantry",
+            "MapAddress": "708 SE LIME ST",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6582972148756,
+            "Lat_Y": 39.0457149471106,
+            "GlobalID": "97ea1254-3b22-45d8-9f3f-d54c62ea88ce",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 464,
+            "y": 94
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 5,
+            "LocationID": 5,
+            "Agency": "Boys and Girls Club of Topeka ",
+            "AgencyContactName": "Ashley Rudolph",
+            "AgencyContactPhone": "785-234-5601",
+            "AgencyContactEmail": "frontdesktc@bgctopeka.org",
+            "AgencyWebsite": null,
+            "Address_Description": "Teen Center (1112 SE 10th Ave)",
+            "Dates_Times": "2nd/4th Wed of Month 4:00pm-7:30pm",
+            "Details": "Food Pantry at the teen center will transition to drive through distribution open to any community members",
+            "MapAddress": "1112 SE 10TH AVE",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6606344145255,
+            "Lat_Y": 39.044750476901,
+            "GlobalID": "b37720b8-e171-44fb-a67b-438740f044aa",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 460,
+            "y": 96
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 22,
+            "LocationID": 22,
+            "Agency": "Salvation Army",
+            "AgencyContactName": "Shelley Robertson",
+            "AgencyContactPhone": "785-233-9648",
+            "AgencyContactEmail": "shelley.robertson@usc.salvationarmy.org",
+            "AgencyWebsite": "https://centralusa.salvationarmy.org/topeka/",
+            "Address_Description": "Paradise Plaza Apartments",
+            "Dates_Times": null,
+            "Details": "Free Grab and Go lunches ",
+            "MapAddress": "1110 SE POWELL ST",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6486089264074,
+            "Lat_Y": 39.035880262023,
+            "GlobalID": "0e15e48b-586b-492f-ad1d-145afd4c9f8a",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 478,
+            "y": 113
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 76,
+            "LocationID": 77,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "French Middle School (5257 SW 33rd St);",
+            "Dates_Times": "Starts June 1, 2020, 11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "5257 SW 33RD ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.74642182258,
+            "Lat_Y": 39.0071268514044,
+            "GlobalID": "03223db7-4f31-4788-a275-fcba46778113",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590597026331,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 335,
+            "y": 167
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 82,
+            "LocationID": 83,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Drive-Thru Pantires (Groceries)- Food provided by Harvesters and TPS\nJardine Middle School (2600 SW 33rd)- Saturday 0900-1000 \n2nd Saturday of the Month (April 11th, May 9th)",
+            "Dates_Times": "Saturday 0900-1000, 2nd Saturday of the month (Apr 11, May 9)",
+            "Details": "Drive-Thru Pantries (Groceries)- Food provided by Harvesters and TPS",
+            "MapAddress": "2600 SW 33RD ST",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7090547106199,
+            "Lat_Y": 39.009841870587,
+            "GlobalID": "1cd71add-5066-4054-a9cc-b35a5f6a75c3",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 390,
+            "y": 162
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 39,
+            "LocationID": 39,
+            "Agency": "Topeka North Outreach, Inc. ",
+            "AgencyContactName": "Theresa Gartner",
+            "AgencyContactPhone": "785-286-1370",
+            "AgencyContactEmail": "TopekaNorthOutreach@gmail.com",
+            "AgencyWebsite": "https://www.topekanorthoutreach.org/",
+            "Address_Description": "Meadowwood Mobile Home Park (1900 NW Lyman Rd);",
+            "Dates_Times": "Sunday 1:00-1:30",
+            "Details": "Operation Backpack food sacks will be \"grab and go\" drive thru; will be given to children who live in N Topeka, Oakland and Surround communities (Proof of address must be shown); first come first serve; Each sack contains a 2 day sup",
+            "MapAddress": "1900 NW LYMAN RD",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6911169042668,
+            "Lat_Y": 39.088506597726,
+            "GlobalID": "aee2b710-6aed-4116-a479-9a9610b8353e",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1591036008712,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 416,
+            "y": 14
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 16,
+            "LocationID": 16,
+            "Agency": "Let's Help",
+            "AgencyContactName": "Jennifer Loeffler",
+            "AgencyContactPhone": "785-234-6208",
+            "AgencyContactEmail": "info@letshelpinc.org",
+            "AgencyWebsite": "https://letshelpinc.org/",
+            "Address_Description": "(200 S Kansas Ave, 66603) on the dock in the alley",
+            "Dates_Times": "Mon/Wed/Fri 11:30-12:30",
+            "Details": "Sack lunch service",
+            "MapAddress": "200 S KANSAS AVE",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6704363728806,
+            "Lat_Y": 39.0564868638123,
+            "GlobalID": "2a9f7aaf-2011-41f1-af08-303c06e2bd87",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 446,
+            "y": 74
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 88,
+            "LocationID": 89,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Scott Dual Language Magnet (1100-1115)",
+            "Dates_Times": "MON- FRI 1100-1115",
+            "Details": "Lunch Sites (Salvation Army)- Food provided by Salvation Army",
+            "MapAddress": "401 SE MARKET ST",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6489021184882,
+            "Lat_Y": 39.0484046761714,
+            "GlobalID": "fc34fe57-09d1-4ea4-a8e5-9286e79ca3a3",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 477,
+            "y": 89
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 2,
+            "LocationID": 2,
+            "Agency": "Barnabas Student Ministries/VERGE/Café Barnabas",
+            "AgencyContactName": "Kevin Christianson",
+            "AgencyContactPhone": null,
+            "AgencyContactEmail": "kevin@cafebarnabus.org",
+            "AgencyWebsite": "http://www.barnabasstudentministries.org/",
+            "Address_Description": "Drive-thru distribution is outside behind West Ridge Mall between Furniture Mall of Kansas and the former Burlington Coat Factory (1801 SW Wanamaker Rd)",
+            "Dates_Times": "Mon-Fri 11:00am-12:00 | Weds 5:00pm-6:00pm",
+            "Details": "Serving any families indicating food needs by providing box of pre-packaged food items.",
+            "MapAddress": "1801 SW WANAMAKER RD",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7672766619834,
+            "Lat_Y": 39.0322281821881,
+            "GlobalID": "4d7c35cf-22ad-49e8-a820-5298d44433f5",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590674936024,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 305,
+            "y": 120
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 48,
+            "LocationID": 48,
+            "Agency": "Topeka Rescue Mission",
+            "AgencyContactName": "Mike Shinkle",
+            "AgencyContactPhone": " 785-354-1744",
+            "AgencyContactEmail": "mshinkle@trmonline.org",
+            "AgencyWebsite": "https://trmonline.org/",
+            "Address_Description": "Pickup at north enterance of TRM at 600 N. Kansas Ave.",
+            "Dates_Times": "Mon-Fri 6:00pm-6:30pm | Sat/Sun 5:00pm-5:30pm",
+            "Details": "Evening meal time for Non-TRM guests will be done in grab and go meal sacks to include evening meal and items for next day breakfast.  ",
+            "MapAddress": "600 N KANSAS AVE",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6672424102193,
+            "Lat_Y": 39.0646524691207,
+            "GlobalID": "e8b31b5c-16c4-456d-96ee-9ddb8403b5db",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 450,
+            "y": 59
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 17,
+            "LocationID": 17,
+            "Agency": "Let's Help",
+            "AgencyContactName": "Jennifer Loeffler",
+            "AgencyContactPhone": "785-234-6208",
+            "AgencyContactEmail": "info@letshelpinc.org",
+            "AgencyWebsite": "https://letshelpinc.org/",
+            "Address_Description": "(200 S Kansas Ave, 66603)",
+            "Dates_Times": "Wed/Fri 9:00-11:00",
+            "Details": "Food box service, hygiene and diapers by appointment",
+            "MapAddress": "200 S KANSAS AVE",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6705470945987,
+            "Lat_Y": 39.0569539959265,
+            "GlobalID": "4fc70191-8e67-458c-9098-27dff9e17537",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 446,
+            "y": 73
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 31,
+            "LocationID": 31,
+            "Agency": "Topeka North Outreach, Inc. ",
+            "AgencyContactName": "Theresa Gartner",
+            "AgencyContactPhone": "785-286-1370",
+            "AgencyContactEmail": "TopekaNorthOutreach@gmail.com",
+            "AgencyWebsite": "https://www.topekanorthoutreach.org/",
+            "Address_Description": "Oakland United Methodist Church (801 NE Chester Ave);",
+            "Dates_Times": "Sundays, 1:00-1:30pm",
+            "Details": "Operation Backpack food sacks will be \"grab and go\" drive thru; will be given to children who live in N Topeka, Oakland and surrounding communities (Proof of address must be shown); first come first serve; Each sack contains a 2 day supply",
+            "MapAddress": "801 NE CHESTER AVE",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6411950876367,
+            "Lat_Y": 39.0663804385063,
+            "GlobalID": "b19b7d9f-2b95-4e55-9f96-06dfb692366e",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1591280748455,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 488,
+            "y": 56
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 40,
+            "LocationID": 40,
+            "Agency": "Topeka North Outreach, Inc. ",
+            "AgencyContactName": "Theresa Gartner",
+            "AgencyContactPhone": "785-286-1370",
+            "AgencyContactEmail": "TopekaNorthOutreach@gmail.com",
+            "AgencyWebsite": "https://www.topekanorthoutreach.org/",
+            "Address_Description": "Brittany Place Mobile Home Park (1735 NW Lyman Rd);",
+            "Dates_Times": "Sundays 1:00-1:30pm",
+            "Details": "Operation Backpack food sacks will be \"grab and go\" drive thru; will be given to children who live in N Topeka, Oakland and Surround communities (Proof of address must be shown); first come first serve; Each sack contains a 2 day sup",
+            "MapAddress": "1735 NW LYMAN RD",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6885969204193,
+            "Lat_Y": 39.0873223939766,
+            "GlobalID": "7f02eb24-94d8-46b3-90e8-fcc7c1e76981",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1591035799438,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 419,
+            "y": 16
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 11,
+            "LocationID": 11,
+            "Agency": "Diner 24",
+            "AgencyContactName": null,
+            "AgencyContactPhone": "785-408-1211",
+            "AgencyContactEmail": null,
+            "AgencyWebsite": null,
+            "Address_Description": "ask for \"Kids Daily Breakfast or Lunch Special\" (2134 N Kansas Ave)",
+            "Dates_Times": "Mon-Fri 7:00am-3:00pm",
+            "Details": "Offering any children breakfast and lunch for free",
+            "MapAddress": "2134 N KANSAS AVE",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.65972551338,
+            "Lat_Y": 39.0897102337424,
+            "GlobalID": "490c98e5-d2f8-4d69-bcf4-5b654acd65b9",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590611161127,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 461,
+            "y": 12
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 91,
+            "LocationID": 92,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Paradise Plaza (1150-1205)",
+            "Dates_Times": "MON-FRI 1150-1205",
+            "Details": "Lunch Sites (Salvation Army)- Food provided by Salvation Army",
+            "MapAddress": "1110 SE POWELL ST",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6486089264074,
+            "Lat_Y": 39.035880262023,
+            "GlobalID": "e645e211-f1c4-462b-ad06-4d23360f8d01",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 478,
+            "y": 113
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 20,
+            "LocationID": 20,
+            "Agency": "Salvation Army",
+            "AgencyContactName": "Shelley Robertson",
+            "AgencyContactPhone": "785-233-9648",
+            "AgencyContactEmail": "shelley.robertson@usc.salvationarmy.org",
+            "AgencyWebsite": "https://centralusa.salvationarmy.org/topeka/",
+            "Address_Description": "Timberlee (Ripley) Apartments",
+            "Dates_Times": null,
+            "Details": "Free Grab and Go lunches ",
+            "MapAddress": "341 SE Lawrence ST",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6557052311422,
+            "Lat_Y": 39.0506260070927,
+            "GlobalID": "3fcd8d30-db83-4978-a006-04d718aede0f",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590694773774,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 467,
+            "y": 85
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 28,
+            "LocationID": 28,
+            "Agency": "The Prosperity Academy and Community Center",
+            "AgencyContactName": null,
+            "AgencyContactPhone": null,
+            "AgencyContactEmail": null,
+            "AgencyWebsite": null,
+            "Address_Description": "2401 SE 11TH ST",
+            "Dates_Times": "Mon-Fri 11:30am-1:00pm",
+            "Details": "Free lunch; Enter through the front doors in the circle drive",
+            "MapAddress": "2401 SE 11TH ST",
+            "Type_Distribution": "Meals All Ages",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6459092905909,
+            "Lat_Y": 39.0357413808734,
+            "GlobalID": "48abcfe3-2ad2-47cd-86bb-dcfc413dec00",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 482,
+            "y": 113
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 74,
+            "LocationID": 75,
+            "Agency": "USD 501 Topeka Public Schools",
+            "AgencyContactName": "Chris Wagner",
+            "AgencyContactPhone": "785-295-3076",
+            "AgencyContactEmail": "cwagnner@tps501.org  ",
+            "AgencyWebsite": "https://www.topekapublicschools.net/Domain/66",
+            "Address_Description": "Quincy Elementary School (1500 NE Quincy St); ",
+            "Dates_Times": "Starts June 1, 2020,  11:00am-12:00pm",
+            "Details": "Meal Distribution Sites for grab and go meals for breakfast and lunch for students-- will have drive up pick up for meal sites",
+            "MapAddress": "1500 NE QUINCY ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6608586452903,
+            "Lat_Y": 39.0753001051371,
+            "GlobalID": "b88f3a5c-a0f7-4682-a3ce-205d00a849ed",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590596896027,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 460,
+            "y": 39
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 14,
+            "LocationID": 14,
+            "Agency": "Hy-Vee",
+            "AgencyContactName": null,
+            "AgencyContactPhone": "785-272-1763",
+            "AgencyContactEmail": null,
+            "AgencyWebsite": "https://www.hy-vee.com/stores/Detail.aspx?s=508",
+            "Address_Description": "2951 SW Wanamaker Rd, 66614",
+            "Dates_Times": null,
+            "Details": "In partnership with DoorDash, free delivery service on food purchases to customers who are 60 and older, expectant mothers, or anyone more susceptible to serious illness. Eligible customers need to use the code 'SPECIALDELIVERY' at checkout online",
+            "MapAddress": "2951 SW WANAMAKER RD",
+            "Type_Distribution": "Delivery",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.7590333954265,
+            "Lat_Y": 39.0130991341995,
+            "GlobalID": "4578c546-7bb1-490a-9318-4d32a7b5f952",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590680670064,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 317,
+            "y": 155
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 37,
+            "LocationID": 37,
+            "Agency": "Topeka North Outreach, Inc. ",
+            "AgencyContactName": "Theresa Gartner",
+            "AgencyContactPhone": "785-286-1370",
+            "AgencyContactEmail": "TopekaNorthOutreach@gmail.com",
+            "AgencyWebsite": "https://www.topekanorthoutreach.org/",
+            "Address_Description": "Oakland Community Center (801 NE Poplar St);",
+            "Dates_Times": "Fri 11:00am-11:30am",
+            "Details": "Operation Backpack food sacks will be \"grab and go\" drive thru; will be given to children who live in N Topeka, Oakland and Surround communities (Proof of address must be shown); first come first serve; Each sack contains a 2 day supply.",
+            "MapAddress": "801 NE POPLAR ST",
+            "Type_Distribution": "Meals 18 and Under",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6441353058612,
+            "Lat_Y": 39.0668623746612,
+            "GlobalID": "3993f324-83e1-4275-b513-252360ca50a0",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1590612135401,
+            "Editor": "ljmartin.ksu"
+        },
+        "geometry": {
+            "x": 484,
+            "y": 55
+        }
+    }, {
+        "attributes": {
+            "OBJECTID": 8,
+            "LocationID": 8,
+            "Agency": "Catholic Charities Topeka Family Support Center (FSC)",
+            "AgencyContactName": "Kristine Hammes",
+            "AgencyContactPhone": "785-233-6300",
+            "AgencyContactEmail": "khammes@catholiccharitiesks.org",
+            "AgencyWebsite": "https://catholiccharitiesks.org/where-we-work/topeka/",
+            "Address_Description": "234 S. Kansas Ave.",
+            "Dates_Times": "Mon/Tue/Thu 9:00-12:00; 1:00-3:30pm",
+            "Details": "Food pantry-normal operations with exception of using pre-boxed food in distribution; all classes cancelled; set up mobile food distribution",
+            "MapAddress": "234 S KANSAS AVE",
+            "Type_Distribution": "Pantry Items",
+            "Additional_Information": "",
+            "Status": "Active",
+            "Long_X": -95.6709889663006,
+            "Lat_Y": 39.0560898582937,
+            "GlobalID": "38098c6e-555a-434a-a271-3e46fe83e6be",
+            "CreationDate": 1589491058406,
+            "Creator": "lee.allen",
+            "EditDate": 1589560945536,
+            "Editor": "lee.allen"
+        },
+        "geometry": {
+            "x": 445,
+            "y": 75
+        }
+    }]
+}
