@@ -1,0 +1,117 @@
+{response: [{item: "DP03_0062E",…}]}
+response: [{item: "DP03_0062E",…}]
+0: {item: "DP03_0062E",…}
+concept: "SELECTED ECONOMIC CHARACTERISTICS"
+dataSource: "2018 American Community Survey 5-Year Estimates"
+group: "Income and Poverty"
+item: "DP03_0062E"
+stats: [{moe: "4159", name: "Smith County, Kansas", geocode: "20183", value: "43438"},…]
+[0 … 99]
+0: {moe: "4159", name: "Smith County, Kansas", geocode: "20183", value: "43438"}
+1: {moe: "9500", name: "Grant County, Kansas", geocode: "20067", value: "55455"}
+2: {moe: "3993", name: "Kingman County, Kansas", geocode: "20095", value: "58483"}
+3: {moe: "4415", name: "Nemaha County, Kansas", geocode: "20131", value: "58644"}
+4: {moe: "4688", name: "Pottawatomie County, Kansas", geocode: "20149", value: "64657"}
+5: {moe: "3275", name: "Cherokee County, Kansas", geocode: "20021", value: "41103"}
+6: {moe: "2187", name: "Butler County, Kansas", geocode: "20015", value: "63272"}
+7: {moe: "5221", name: "Lincoln County, Kansas", geocode: "20105", value: "46196"}
+8: {moe: "3412", name: "Sumner County, Kansas", geocode: "20191", value: "54915"}
+9: {moe: "6910", name: "Trego County, Kansas", geocode: "20195", value: "56810"}
+10: {moe: "3337", name: "Wilson County, Kansas", geocode: "20205", value: "46208"}
+11: {moe: "4407", name: "Woodson County, Kansas", geocode: "20207", value: "34621"}
+12: {moe: "5672", name: "Ness County, Kansas", geocode: "20135", value: "51033"}
+13: {moe: "6994", name: "Osborne County, Kansas", geocode: "20141", value: "48355"}
+14: {moe: "1342", name: "Bourbon County, Kansas", geocode: "20011", value: "40733"}
+15: {moe: "8976", name: "Hamilton County, Kansas", geocode: "20075", value: "45000"}
+16: {moe: "4714", name: "Kiowa County, Kansas", geocode: "20097", value: "51336"}
+17: {moe: "1505", name: "Shawnee County, Kansas", geocode: "20177", value: "55199"}
+18: {moe: "5234", name: "Sherman County, Kansas", geocode: "20181", value: "52847"}
+19: {moe: "4452", name: "Thomas County, Kansas", geocode: "20193", value: "57478"}
+20: {moe: "2772", name: "Montgomery County, Kansas", geocode: "20125", value: "45173"}
+21: {moe: "6012", name: "Morris County, Kansas", geocode: "20127", value: "50352"}
+22: {moe: "6393", name: "Rawlins County, Kansas", geocode: "20153", value: "48125"}
+23: {moe: "2741", name: "Rooks County, Kansas", geocode: "20163", value: "50511"}
+24: {moe: "6765", name: "Clark County, Kansas", geocode: "20025", value: "50368"}
+25: {moe: "4498", name: "Ellsworth County, Kansas", geocode: "20053", value: "48188"}
+26: {moe: "4800", name: "Harper County, Kansas", geocode: "20077", value: "49455"}
+27: {moe: "3252", name: "Russell County, Kansas", geocode: "20167", value: "52806"}
+28: {moe: "3806", name: "Lyon County, Kansas", geocode: "20111", value: "44191"}
+29: {moe: "5011", name: "Pawnee County, Kansas", geocode: "20145", value: "42853"}
+30: {moe: "2726", name: "Allen County, Kansas", geocode: "20001", value: "42679"}
+31: {moe: "4100", name: "Comanche County, Kansas", geocode: "20033", value: "56912"}
+32: {moe: "2496", name: "Elk County, Kansas", geocode: "20049", value: "38494"}
+33: {moe: "3918", name: "Gove County, Kansas", geocode: "20063", value: "48894"}
+34: {moe: "2814", name: "Harvey County, Kansas", geocode: "20079", value: "56051"}
+35: {moe: "6908", name: "Hodgeman County, Kansas", geocode: "20083", value: "53854"}
+36: {moe: "5111", name: "Kearny County, Kansas", geocode: "20093", value: "51314"}
+37: {moe: "2935", name: "Stafford County, Kansas", geocode: "20185", value: "48563"}
+38: {moe: "3206", name: "McPherson County, Kansas", geocode: "20113", value: "57765"}
+39: {moe: "2577", name: "Osage County, Kansas", geocode: "20139", value: "55036"}
+40: {moe: "8034", name: "Greeley County, Kansas", geocode: "20071", value: "51250"}
+41: {moe: "3782", name: "Coffey County, Kansas", geocode: "20031", value: "58636"}
+42: {moe: "1415", name: "Crawford County, Kansas", geocode: "20037", value: "40174"}
+43: {moe: "4242", name: "Ellis County, Kansas", geocode: "20051", value: "52700"}
+44: {moe: "2875", name: "Greenwood County, Kansas", geocode: "20073", value: "42595"}
+45: {moe: "3485", name: "Labette County, Kansas", geocode: "20099", value: "47668"}
+46: {moe: "6469", name: "Linn County, Kansas", geocode: "20107", value: "43699"}
+47: {moe: "758", name: "Sedgwick County, Kansas", geocode: "20173", value: "54974"}
+48: {moe: "3239", name: "Seward County, Kansas", geocode: "20175", value: "47025"}
+49: {moe: "3895", name: "Republic County, Kansas", geocode: "20157", value: "48022"}
+50: {moe: "3891", name: "Graham County, Kansas", geocode: "20065", value: "40769"}
+51: {moe: "913", name: "Johnson County, Kansas", geocode: "20091", value: "84915"}
+52: {moe: "2064", name: "Douglas County, Kansas", geocode: "20045", value: "55832"}
+53: {moe: "9269", name: "Sheridan County, Kansas", geocode: "20179", value: "56071"}
+54: {moe: "4161", name: "Miami County, Kansas", geocode: "20121", value: "69150"}
+55: {moe: "2378", name: "Gray County, Kansas", geocode: "20069", value: "64426"}
+56: {moe: "13604", name: "Wallace County, Kansas", geocode: "20199", value: "58875"}
+57: {moe: "7837", name: "Stevens County, Kansas", geocode: "20189", value: "56507"}
+58: {moe: "3196", name: "Washington County, Kansas", geocode: "20201", value: "48889"}
+59: {moe: "2537", name: "Chautauqua County, Kansas", geocode: "20019", value: "38690"}
+60: {moe: "5114", name: "Morton County, Kansas", geocode: "20129", value: "43925"}
+61: {moe: "1352", name: "Reno County, Kansas", geocode: "20155", value: "49174"}
+62: {moe: "1835", name: "Cloud County, Kansas", geocode: "20029", value: "44143"}
+63: {moe: "3952", name: "Doniphan County, Kansas", geocode: "20043", value: "49338"}
+64: {moe: "5094", name: "Haskell County, Kansas", geocode: "20081", value: "53527"}
+65: {moe: "11522", name: "Lane County, Kansas", geocode: "20101", value: "51719"}
+66: {moe: "11173", name: "Scott County, Kansas", geocode: "20171", value: "71394"}
+67: {moe: "2996", name: "Neosho County, Kansas", geocode: "20133", value: "44294"}
+68: {moe: "3785", name: "Brown County, Kansas", geocode: "20013", value: "48547"}
+69: {moe: "1690", name: "Phillips County, Kansas", geocode: "20147", value: "48272"}
+70: {moe: "2479", name: "Riley County, Kansas", geocode: "20161", value: "49910"}
+71: {moe: "4161", name: "Decatur County, Kansas", geocode: "20039", value: "44104"}
+72: {moe: "2528", name: "Jefferson County, Kansas", geocode: "20087", value: "61793"}
+73: {moe: "3009", name: "Jackson County, Kansas", geocode: "20085", value: "55904"}
+74: {moe: "3191", name: "Logan County, Kansas", geocode: "20109", value: "51597"}
+75: {moe: "939", name: "Wyandotte County, Kansas", geocode: "20209", value: "44873"}
+76: {moe: "4532", name: "Clay County, Kansas", geocode: "20027", value: "56186"}
+77: {moe: "1520", name: "Saline County, Kansas", geocode: "20169", value: "50515"}
+78: {moe: "3941", name: "Wabaunsee County, Kansas", geocode: "20197", value: "60450"}
+79: {moe: "4006", name: "Mitchell County, Kansas", geocode: "20123", value: "45221"}
+80: {moe: "3855", name: "Atchison County, Kansas", geocode: "20005", value: "48667"}
+81: {moe: "3623", name: "Finney County, Kansas", geocode: "20055", value: "56573"}
+82: {moe: "2277", name: "Leavenworth County, Kansas", geocode: "20103", value: "71184"}
+83: {moe: "5581", name: "Stanton County, Kansas", geocode: "20187", value: "46726"}
+84: {moe: "3521", name: "Meade County, Kansas", geocode: "20119", value: "55568"}
+85: {moe: "3674", name: "Pratt County, Kansas", geocode: "20151", value: "54029"}
+86: {moe: "6396", name: "Anderson County, Kansas", geocode: "20003", value: "46274"}
+87: {moe: "2156", name: "Geary County, Kansas", geocode: "20061", value: "49185"}
+88: {moe: "2421", name: "Ford County, Kansas", geocode: "20057", value: "53072"}
+89: {moe: "2722", name: "Marshall County, Kansas", geocode: "20117", value: "50234"}
+90: {moe: "4595", name: "Cheyenne County, Kansas", geocode: "20023", value: "46833"}
+91: {moe: "1792", name: "Cowley County, Kansas", geocode: "20035", value: "48087"}
+92: {moe: "2842", name: "Franklin County, Kansas", geocode: "20059", value: "55486"}
+93: {moe: "5114", name: "Jewell County, Kansas", geocode: "20089", value: "42552"}
+94: {moe: "5615", name: "Rice County, Kansas", geocode: "20159", value: "50764"}
+95: {moe: "5387", name: "Chase County, Kansas", geocode: "20017", value: "46295"}
+96: {moe: "10866", name: "Wichita County, Kansas", geocode: "20203", value: "57566"}
+97: {moe: "4999", name: "Norton County, Kansas", geocode: "20137", value: "49891"}
+98: {moe: "2734", name: "Barton County, Kansas", geocode: "20009", value: "50198"}
+99: {moe: "3364", name: "Edwards County, Kansas", geocode: "20047", value: "49293"}
+[100 … 104]
+100: {moe: "5471", name: "Rush County, Kansas", geocode: "20165", value: "40598"}
+101: {moe: "3013", name: "Marion County, Kansas", geocode: "20115", value: "51262"}
+102: {moe: "5974", name: "Ottawa County, Kansas", geocode: "20143", value: "51971"}
+103: {moe: "5019", name: "Barber County, Kansas", geocode: "20007", value: "50613"}
+104: {moe: "3545", name: "Dickinson County, Kansas", geocode: "20041", value: "48167"}
+tableName: "ACSDP5Y2018.DP03"
+title: "Median Household Income"
