@@ -1,0 +1,623 @@
+,Name,Address,Latitude,Longitude
+0,Breakers,"8249 Southwest 10th Avenue, Topeka",39.0495123,-95.8144129
+1,Breakers,"8249 Southwest 10th Avenue, Topeka",39.0495123,-95.8144129
+2,Oriental Pearl,"2025 Southwest Urish Road, Topeka",39.0294912,-95.7815736
+3,Red Robin Gourmet Burgers and Brews,"6230 Southwest 6th Avenue, Topeka",39.0584071,-95.7677571
+4,Oriental Pearl,"2025 Southwest Urish Road, Topeka",39.0294912,-95.7815736
+5,Red Robin Gourmet Burgers and Brews,"6230 Southwest 6th Avenue, Topeka",39.0584071,-95.7677571
+6,Jason's Deli,"6121 Southwest 12th Street Ste 400, Topeka",39.0448692,-95.7649993
+7,Hooters,"6100 Southwest 10th Avenue, Topeka",39.0512823,-95.7633761
+8,Pie Five Pizza,"1129 Southwest Wanamaker Road, Topeka",39.0469581,-95.7622057
+9,McAlister's Deli,"1129 Southwest Wanamaker Road B, Topeka",39.04681100000001,-95.76214399999999
+10,Five Guys,"1191 Southwest Wanamaker Road, Topeka",39.04605249999999,-95.76209399999999
+11,Jimmy John's,"1025 Southwest Wanamaker Road, Topeka",39.04898010000001,-95.7622827
+12,Old Chicago,"1231 Southwest Wanamaker Road, Topeka",39.0443815,-95.76365659999999
+13,Buffalo Wild Wings,"1227 Southwest Wanamaker Road #400, Topeka",39.0449945,-95.763936
+14,QDOBA Mexican Eats,"1025 Southwest Wanamaker Road Suite A, Topeka",39.0490453,-95.7622721
+15,On The Border Mexican Grill & Cantina,"1235 Southwest Wanamaker Road, Topeka",39.0443709,-95.7623301
+16,Burger King,"6002 Southwest 10th Street, Topeka",39.05134869999999,-95.7623516
+17,Freddy's Frozen Custard & Steakburgers,"1050 Southwest Wanamaker Road, Topeka",39.0486456,-95.76091679999999
+18,Spangles,"1130 Southwest Wanamaker Road, Topeka",39.046024,-95.761324
+19,Culver's,"1035 Southwest Wanamaker Road, Topeka",39.048514,-95.762247
+20,Fine Mexican Food,Topeka,39.0444521,-95.7623058
+21,HuHot Mongolian Grill,"5900 Southwest Huntoon Street, Topeka",39.0454763,-95.75845509999999
+22,Arby's,"5930 Southwest Huntoon Street, Topeka",39.0440507,-95.76020749999999
+23,Cheap Pro Car,"5900 Southwest Huntoon Street, Topeka",39.0454763,-95.75845509999999
+24,Sam's Club Cafe,"1401 Southwest Wanamaker Road, Topeka",39.0414988,-95.76462509999999
+25,Golden Corral Buffet & Grill,"1601 Southwest Wanamaker Road, Topeka",39.0375,-95.76249999999999
+26,Denny's,"1500 Southwest Wanamaker Road, Topeka",39.0400728,-95.7611167
+27,Juli's Coffee & Bistro,"1801 Southwest Wanamaker Road, Topeka",39.0326505,-95.7663662
+28,Jason's Deli,"6121 Southwest 12th Street Ste 400, Topeka",39.0448692,-95.7649993
+29,Cracker Barrel Old Country Store,"1421 S West, Southwest Ashworth Place, Topeka",39.04088899999999,-95.75842
+30,Panera Bread,"1421 Southwest Wanamaker Road, Topeka",39.04092299999999,-95.76226299999999
+31,Chick-fil-A,"1625 Southwest Wanamaker Road, Topeka",39.0371845,-95.7624929
+32,Orange Leaf Frozen Yogurt,"1570 Southwest Wanamaker Road, Topeka",39.03821029999999,-95.7605612
+33,Ling's Bistro,"1550 Southwest Wanamaker Road #100a, Topeka",39.0391415,-95.76056659999999
+34,Applebee's Grill + Bar,"5928 Southwest 17th Street, Topeka",39.036829,-95.759485
+35,Pizza Hut,"1700 Southwest Wanamaker Road Suite 150, Topeka",39.0360269,-95.7612978
+36,Steak 'n Shake,"1415 Southwest Wanamaker Road, Topeka",39.0417537,-95.76231969999999
+37,Taco Bell,"1560 Southwest Wanamaker Road, Topeka",39.0383811,-95.76130850000001
+38,IHOP,"1731 Southwest Wanamaker Road, Topeka",39.034771,-95.76252699999999
+39,McDonald's,"1640 Southwest Wanamaker Road, Topeka",39.03687159999999,-95.7611625
+40,Jose Pepper's,"1425 Southwest Wanamaker Road, Topeka",39.0406801,-95.7622471
+41,Old Chicago,"1231 Southwest Wanamaker Road, Topeka",39.0443815,-95.76365659999999
+42,LongHorn Steakhouse,"1915 Southwest Wanamaker Road, Topeka",39.0323478,-95.7627144
+43,Wendy's,"1820 Southwest Wanamaker Road, Topeka",39.0341252,-95.76162459999999
+44,Chick-fil-A,"1801 SW Wanamaker Rd Ste VC3, Topeka",39.03308439999999,-95.7670059
+45,Olive Garden Italian Restaurant,"1925 Southwest Wanamaker Road, Topeka",39.031297,-95.76282979999999
+46,Chipotle Mexican Grill,"2040 Southwest Wanamaker Road #103, Topeka",39.0295192,-95.7611797
+47,Cicis,"2130 Southwest Wanamaker Road Ste 110, Topeka",39.0278292,-95.7596894
+48,Red Lobster,"2011 Southwest Wanamaker Road, Topeka",39.03036,-95.76274
+49,Juli's Coffee & Bistro,"1801 Southwest Wanamaker Road, Topeka",39.0326505,-95.7663662
+50,Chuck E. Cheese,"2215 Southwest Wanamaker Road, Topeka",39.0267771,-95.7628725
+51,Monsoon Indian Grill,"2040 Southwest Wanamaker Road #104, Topeka",39.0294647,-95.7609035
+52,Planet Sub,"2130 Southwest Wanamaker Road # 120 # 120, Topeka",39.02760019999999,-95.7596487
+53,LongHorn Steakhouse,"1915 Southwest Wanamaker Road, Topeka",39.0323478,-95.7627144
+54,Papa John's Pizza,"2121 Southwest Wanamaker Road Ste 117, Topeka",39.0282357,-95.76290589999999
+55,Chili's Grill & Bar,"2021 Southwest Wanamaker Road, Topeka",39.02985090000001,-95.7629426
+56,Hardee's,"2100 Southwest Wanamaker Road, Topeka",39.0286785,-95.7616973
+57,Jersey Mike's Subs,"2121 Southwest Wanamaker Road Suite 115, Topeka",39.02828299999999,-95.762834
+58,Chick-fil-A,"1801 SW Wanamaker Rd Ste VC3, Topeka",39.03308439999999,-95.7670059
+59,Sonic Drive-In,"5922 Southwest 21st Street, Topeka",39.0296767,-95.7596461
+60,Panda Express,"1920 S, Southwest Wanamaker Road Suite 160, Topeka",39.0324196,-95.7614852
+61,Lean Kitchen Co- Topeka,"2121 Southwest Wanamaker Road #107, Topeka",39.0284931,-95.7629413
+62,PepperJax Grill,"2121 Southwest Wanamaker Road #103, Topeka",39.0286104,-95.76280589999999
+63,Noodles and Company,"2110 Southwest Wanamaker Road, Topeka",39.0281487,-95.7616453
+64,Casa Martinez Grill,"1801 Southwest Wanamaker Road, Topeka",39.033251,-95.76700389999999
+65,Subway,"6020 Southwest 29th Street, Topeka",39.0149997,-95.7642382
+66,Glory Days Pizza,"2811 Southwest Wanamaker Road, Topeka",39.01616449999999,-95.7641857
+67,Amigos Topeka West,"2919 Southwest Wanamaker Road, Topeka",39.01377000000001,-95.76472629999999
+68,Blue Moose,"3030 Southwest Wanamaker Drive, Topeka",39.0123034,-95.76195349999999
+69,Caribou Coffee,"2951 Southwest Wanamaker Road, Topeka",39.0125475,-95.7640287
+70,Oriental Express,"5954 Southwest 29th Street, Topeka",39.01505,-95.760477
+71,Domino's Pizza,"2940 Southwest Wanamaker Road, Topeka",39.01364649999999,-95.76152710000001
+72,Papa Murphy's | Take 'N' Bake Pizza,"6021 Southwest 29th Street, Topeka",39.01415679999999,-95.7642779
+73,McDonald's,"2933 Southwest Wanamaker Road, Topeka",39.01353599999999,-95.7627742
+74,The Big Biscuit,"2815 Southwest Wanamaker Road, Topeka",39.01617349999999,-95.762886
+75,Gyroville Topeka,"2855 Southwest Wanamaker Road #4698, Topeka",39.0158277,-95.7629738
+76,El Dorado Mexican Grille,"2919 Southwest Wanamaker Road, Topeka",39.0138096,-95.7647035
+77,Jeremiah Bullfrogs,"2940 Southwest Wanamaker Road STE 130, Topeka",39.01343919999999,-95.76155849999999
+78,Subway,"6020 Southwest 29th Street, Topeka",39.0149997,-95.7642382
+79,Blue Moose,"3030 Southwest Wanamaker Drive, Topeka",39.0123034,-95.76195349999999
+80,Caribou Coffee,"2951 Southwest Wanamaker Road, Topeka",39.0125475,-95.7640287
+81,Amigos Topeka West,"2919 Southwest Wanamaker Road, Topeka",39.01377000000001,-95.76472629999999
+82,Domino's Pizza,"2940 Southwest Wanamaker Road, Topeka",39.01364649999999,-95.76152710000001
+83,Papa Murphy's | Take 'N' Bake Pizza,"6021 Southwest 29th Street, Topeka",39.01415679999999,-95.7642779
+84,McDonald's,"2933 Southwest Wanamaker Road, Topeka",39.01353599999999,-95.7627742
+85,El Dorado Mexican Grille,"2919 Southwest Wanamaker Road, Topeka",39.0138096,-95.7647035
+86,Jeremiah Bullfrogs,"2940 Southwest Wanamaker Road STE 130, Topeka",39.01343919999999,-95.76155849999999
+87,Texas Roadhouse,"5901 Southwest Huntoon Street, Topeka",39.043023,-95.75904
+88,Pie Five Pizza,"1129 Southwest Wanamaker Road, Topeka",39.0469581,-95.7622057
+89,McAlister's Deli,"1129 Southwest Wanamaker Road B, Topeka",39.04681100000001,-95.76214399999999
+90,Five Guys,"1191 Southwest Wanamaker Road, Topeka",39.04605249999999,-95.76209399999999
+91,Jimmy John's,"1025 Southwest Wanamaker Road, Topeka",39.04898010000001,-95.7622827
+92,Hooters,"6100 Southwest 10th Avenue, Topeka",39.0512823,-95.7633761
+93,HuHot Mongolian Grill,"5900 Southwest Huntoon Street, Topeka",39.0454763,-95.75845509999999
+94,QDOBA Mexican Eats,"1025 Southwest Wanamaker Road Suite A, Topeka",39.0490453,-95.7622721
+95,On The Border Mexican Grill & Cantina,"1235 Southwest Wanamaker Road, Topeka",39.0443709,-95.7623301
+96,Burger King,"6002 Southwest 10th Street, Topeka",39.05134869999999,-95.7623516
+97,Freddy's Frozen Custard & Steakburgers,"1050 Southwest Wanamaker Road, Topeka",39.0486456,-95.76091679999999
+98,Spangles,"1130 Southwest Wanamaker Road, Topeka",39.046024,-95.761324
+99,Buffalo Wild Wings,"1227 Southwest Wanamaker Road #400, Topeka",39.0449945,-95.763936
+100,Cheap Pro Car,"5900 Southwest Huntoon Street, Topeka",39.0454763,-95.75845509999999
+101,Culver's,"1035 Southwest Wanamaker Road, Topeka",39.048514,-95.762247
+102,Arby's,"5930 Southwest Huntoon Street, Topeka",39.0440507,-95.76020749999999
+103,Old Chicago,"1231 Southwest Wanamaker Road, Topeka",39.0443815,-95.76365659999999
+104,Fine Mexican Food,Topeka,39.0444521,-95.7623058
+105,Mizu Sushi,"1320 Southwest Ashworth Place, Topeka",39.04232940000001,-95.7585158
+106,Texas Roadhouse,"5901 Southwest Huntoon Street, Topeka",39.043023,-95.75904
+107,Cracker Barrel Old Country Store,"1421 S West, Southwest Ashworth Place, Topeka",39.04088899999999,-95.75842
+108,Golden Corral Buffet & Grill,"1601 Southwest Wanamaker Road, Topeka",39.0375,-95.76249999999999
+109,Denny's,"1500 Southwest Wanamaker Road, Topeka",39.0400728,-95.7611167
+110,Panera Bread,"1421 Southwest Wanamaker Road, Topeka",39.04092299999999,-95.76226299999999
+111,Applebee's Grill + Bar,"5928 Southwest 17th Street, Topeka",39.036829,-95.759485
+112,Orange Leaf Frozen Yogurt,"1570 Southwest Wanamaker Road, Topeka",39.03821029999999,-95.7605612
+113,Ling's Bistro,"1550 Southwest Wanamaker Road #100a, Topeka",39.0391415,-95.76056659999999
+114,Chick-fil-A,"1625 Southwest Wanamaker Road, Topeka",39.0371845,-95.7624929
+115,AJ's NY Pizzeria,"1930 Southwest Westport Drive, Topeka",39.03177549999999,-95.75626349999999
+116,Pizza Hut,"1700 Southwest Wanamaker Road Suite 150, Topeka",39.0360269,-95.7612978
+117,Steak 'n Shake,"1415 Southwest Wanamaker Road, Topeka",39.0417537,-95.76231969999999
+118,Taco Bell,"1560 Southwest Wanamaker Road, Topeka",39.0383811,-95.76130850000001
+119,McDonald's,"1640 Southwest Wanamaker Road, Topeka",39.03687159999999,-95.7611625
+120,Jose Pepper's,"1425 Southwest Wanamaker Road, Topeka",39.0406801,-95.7622471
+121,IHOP,"1731 Southwest Wanamaker Road, Topeka",39.034771,-95.76252699999999
+122,Wendy's,"1820 Southwest Wanamaker Road, Topeka",39.0341252,-95.76162459999999
+123,Perkins Restaurant & Bakery,"1720 Southwest Wanamaker Road, Topeka",39.0351831,-95.7615392
+124,Mizu Sushi,"1320 Southwest Ashworth Place, Topeka",39.04232940000001,-95.7585158
+125,Arby's,"5930 Southwest Huntoon Street, Topeka",39.0440507,-95.76020749999999
+126,Olive Garden Italian Restaurant,"1925 Southwest Wanamaker Road, Topeka",39.031297,-95.76282979999999
+127,Chipotle Mexican Grill,"2040 Southwest Wanamaker Road #103, Topeka",39.0295192,-95.7611797
+128,Cicis,"2130 Southwest Wanamaker Road Ste 110, Topeka",39.0278292,-95.7596894
+129,Red Lobster,"2011 Southwest Wanamaker Road, Topeka",39.03036,-95.76274
+130,Chuck E. Cheese,"2215 Southwest Wanamaker Road, Topeka",39.0267771,-95.7628725
+131,Subway,"5421 Southwest 21st Street, Topeka",39.0289322,-95.7475303
+132,AJ's NY Pizzeria,"1930 Southwest Westport Drive, Topeka",39.03177549999999,-95.75626349999999
+133,Monsoon Indian Grill,"2040 Southwest Wanamaker Road #104, Topeka",39.0294647,-95.7609035
+134,Planet Sub,"2130 Southwest Wanamaker Road # 120 # 120, Topeka",39.02760019999999,-95.7596487
+135,Papa John's Pizza,"2121 Southwest Wanamaker Road Ste 117, Topeka",39.0282357,-95.76290589999999
+136,LongHorn Steakhouse,"1915 Southwest Wanamaker Road, Topeka",39.0323478,-95.7627144
+137,Chili's Grill & Bar,"2021 Southwest Wanamaker Road, Topeka",39.02985090000001,-95.7629426
+138,Hardee's,"2100 Southwest Wanamaker Road, Topeka",39.0286785,-95.7616973
+139,Sonic Drive-In,"5922 Southwest 21st Street, Topeka",39.0296767,-95.7596461
+140,Jersey Mike's Subs,"2121 Southwest Wanamaker Road Suite 115, Topeka",39.02828299999999,-95.762834
+141,Panda Express,"1920 S, Southwest Wanamaker Road Suite 160, Topeka",39.0324196,-95.7614852
+142,Panda Kitahen,"5826 Southwest 21st Street, Topeka",39.0297366,-95.756745
+143,Noodles and Company,"2110 Southwest Wanamaker Road, Topeka",39.0281487,-95.7616453
+144,PepperJax Grill,"2121 Southwest Wanamaker Road #103, Topeka",39.0286104,-95.76280589999999
+145,Lean Kitchen Co- Topeka,"2121 Southwest Wanamaker Road #107, Topeka",39.0284931,-95.7629413
+146,Subway,"6020 Southwest 29th Street, Topeka",39.0149997,-95.7642382
+147,Glory Days Pizza,"2811 Southwest Wanamaker Road, Topeka",39.01616449999999,-95.7641857
+148,Oriental Express,"5954 Southwest 29th Street, Topeka",39.01505,-95.760477
+149,Yuki,"5632 Southwest 29th Street, Topeka",39.0153471,-95.7509066
+150,Domino's Pizza,"2940 Southwest Wanamaker Road, Topeka",39.01364649999999,-95.76152710000001
+151,Taco Casa,"5656 Southwest 29th Street, Topeka",39.0152379,-95.7519289
+152,The Big Biscuit,"2815 Southwest Wanamaker Road, Topeka",39.01617349999999,-95.762886
+153,Gyroville Topeka,"2855 Southwest Wanamaker Road #4698, Topeka",39.0158277,-95.7629738
+154,Jeremiah Bullfrogs,"2940 Southwest Wanamaker Road STE 130, Topeka",39.01343919999999,-95.76155849999999
+155,McDonald's,"2933 Southwest Wanamaker Road, Topeka",39.01353599999999,-95.7627742
+156,Blue Moose,"3030 Southwest Wanamaker Drive, Topeka",39.0123034,-95.76195349999999
+157,Domino's Pizza,"2940 Southwest Wanamaker Road, Topeka",39.01364649999999,-95.76152710000001
+158,Caribou Coffee,"2951 Southwest Wanamaker Road, Topeka",39.0125475,-95.7640287
+159,Jeremiah Bullfrogs,"2940 Southwest Wanamaker Road STE 130, Topeka",39.01343919999999,-95.76155849999999
+160,McDonald's,"2933 Southwest Wanamaker Road, Topeka",39.01353599999999,-95.7627742
+161,Amoco,"600 Southwest Fairlawn Road, Topeka",39.0579059,-95.7428711
+162,Riegel's 20's West,"901 Southwest Fairlawn Road #101, Topeka",39.052311,-95.74372009999999
+163,Riegel's 20's West,"901 Southwest Fairlawn Road #101, Topeka",39.052311,-95.74372009999999
+164,Godfather's Pizza,"5300 Southwest 17th Street, Topeka",39.0377184,-95.7448213
+165,China Pavilion,"5348 Southwest 17th Street, Topeka",39.0372578,-95.74569819999999
+166,Taco Tico,"5222 Southwest 17th Street, Topeka",39.036834,-95.744244
+167,Subway,"5421 Southwest 21st Street, Topeka",39.0289322,-95.7475303
+168,Kiku Japanese Steak House,"5331 Southwest 22nd Place #46, Topeka",39.02691799999999,-95.7457652
+169,Lazy Toad,"5331 Southwest 22nd Place #2, Topeka",39.0265555,-95.7474147
+170,El Mezcal III,"5301 Southwest 21st Street, Topeka",39.0288101,-95.74439459999999
+171,Taco Villa,"5300 Southwest 21st Street A, Topeka",39.0298077,-95.74471969999999
+172,McDonald's,"5525 Southwest 21st Street, Topeka",39.028822,-95.749259
+173,Little Caesars Pizza,"5329 Southwest 21st Street, Topeka",39.028648,-95.74615299999999
+174,Wings Etc.,"2139 Southwest Fairlawn Plaza Drive, Topeka",39.0272973,-95.74685029999999
+175,Hog Wild Pit Bar-B-Q,"5330 Southwest 21st Street, Topeka",39.02967719999999,-95.74570159999999
+176,Pizagel's Pizza & Bakery,"2830 Southwest Fairlawn Road, Topeka",39.0152339,-95.7434052
+177,Long John Silver's,"2746 Southwest Fairlawn Road, Topeka",39.0165611,-95.7432355
+178,El Taquito Express,"5141 Southwest 29th Street, Topeka",39.0144444,-95.74305559999999
+179,Yuki,"5632 Southwest 29th Street, Topeka",39.0153471,-95.7509066
+180,Hunam Chinese Restaurant,"5005 Southwest 29th Street, Topeka",39.0138696,-95.74110200000001
+181,SPIN! Pizza,"2811 Southwest Fairlawn Road suite a, Topeka",39.0163422,-95.7442581
+182,Johnny's Tavern Topeka,"2821 Southwest Fairlawn Road, Topeka",39.016058,-95.744331
+183,El Ranchito,"2800 Southwest Fairlawn Road, Topeka",39.01603120000001,-95.7432961
+184,Amoco,"2836 Southwest Fairlawn Road, Topeka",39.015139,-95.74333999999999
+185,Taco Casa,"5656 Southwest 29th Street, Topeka",39.0152379,-95.7519289
+186,El Taquito Express,"5141 Southwest 29th Street, Topeka",39.0144444,-95.74305559999999
+187,Pizagel's Pizza & Bakery,"2830 Southwest Fairlawn Road, Topeka",39.0152339,-95.7434052
+188,Hunam Chinese Restaurant,"5005 Southwest 29th Street, Topeka",39.0138696,-95.74110200000001
+189,Amoco,"2836 Southwest Fairlawn Road, Topeka",39.015139,-95.74333999999999
+190,Amoco,"600 Southwest Fairlawn Road, Topeka",39.0579059,-95.7428711
+191,Riegel's 20's West,"901 Southwest Fairlawn Road #101, Topeka",39.052311,-95.74372009999999
+192,Godfather's Pizza,"5300 Southwest 17th Street, Topeka",39.0377184,-95.7448213
+193,Taco Tico,"5222 Southwest 17th Street, Topeka",39.036834,-95.744244
+194,China Pavilion,"5348 Southwest 17th Street, Topeka",39.0372578,-95.74569819999999
+195,Goodcents Deli Fresh Subs,"4210 Southwest 21st Street, Topeka",39.029675,-95.72847999999999
+196,El Mezcal III,"5301 Southwest 21st Street, Topeka",39.0288101,-95.74439459999999
+197,Taco Villa,"5300 Southwest 21st Street A, Topeka",39.0298077,-95.74471969999999
+198,Hog Wild Pit Bar-B-Q,"5330 Southwest 21st Street, Topeka",39.02967719999999,-95.74570159999999
+199,Long John Silver's,"2746 Southwest Fairlawn Road, Topeka",39.0165611,-95.7432355
+200,Pizagel's Pizza & Bakery,"2830 Southwest Fairlawn Road, Topeka",39.0152339,-95.7434052
+201,El Taquito Express,"5141 Southwest 29th Street, Topeka",39.0144444,-95.74305559999999
+202,Hunam Chinese Restaurant,"5005 Southwest 29th Street, Topeka",39.0138696,-95.74110200000001
+203,El Ranchito,"2800 Southwest Fairlawn Road, Topeka",39.01603120000001,-95.7432961
+204,Amoco,"2836 Southwest Fairlawn Road, Topeka",39.015139,-95.74333999999999
+205,SPIN! Pizza,"2811 Southwest Fairlawn Road suite a, Topeka",39.0163422,-95.7442581
+206,Johnny's Tavern Topeka,"2821 Southwest Fairlawn Road, Topeka",39.016058,-95.744331
+207,Hunam Chinese Restaurant,"5005 Southwest 29th Street, Topeka",39.0138696,-95.74110200000001
+208,Godfather's Pizza Express,"1811 Northwest Brickyard Road, Topeka",39.08299179999999,-95.7250523
+209,Subway,"1811 Northwest Brickyard Road, Topeka",39.0823461,-95.7257297
+210,Subway,"1811 Northwest Brickyard Road, Topeka",39.0823461,-95.7257297
+211,Godfather's Pizza Express,"1811 Northwest Brickyard Road, Topeka",39.08299179999999,-95.7250523
+212,Subway,"1151 Southwest Gage Boulevard, Topeka",39.04716070000001,-95.7250854
+213,Paisano's Ristorante,"4043 Southwest 10th Avenue, Topeka",39.0493576,-95.72673410000002
+214,Herman's Meat & Smokehouse,"2011 Southwest Huntoon Street, Topeka",39.0437085,-95.72912579999999
+215,Marco's Pizza,"1401 Southwest Gage Boulevard, Topeka",39.041652,-95.725667
+216,McDonald's,"1201 Southwest Gage Boulevard, Topeka",39.0453464,-95.72518989999999
+217,Sonic Drive-In,"1221 Southwest Gage Boulevard, Topeka",39.0443654,-95.72535450000001
+218,Annie's Place,"4014 Southwest Gage Center Drive, Topeka",39.0432577,-95.7268352
+219,Papa Murphy's | Take 'N' Bake Pizza,"1035 South West, Southwest Gage Boulevard, Topeka",39.0496415,-95.725483
+220,Wendy's,"1251 Southwest Gage Boulevard, Topeka",39.0432508,-95.72519659999999
+221,Skinny's Sports Bar & Grill,"4016 Southwest Huntoon Street, Topeka",39.044487,-95.72666799999999
+222,Herman's Meat & Smokehouse,"4211 Southwest Huntoon Street, Topeka",39.0437002,-95.7290057
+223,Glory Days Pizza - Fleming Place,"1033 Southwest Gage Boulevard, Topeka",39.04983199999999,-95.725465
+224,Blackbird,"4025 Southwest 10th Avenue, Topeka",39.04985079999999,-95.7271385
+225,Arby's,"1187 Southwest Gage Boulevard, Topeka",39.04607129999999,-95.7251422
+226,Baking Traditions,"4036 Southwest Huntoon Street, Topeka",39.044173,-95.72679409999999
+227,Los Charros,"4111 Southwest Gage Center Drive, Topeka",39.042607,-95.72721630000001
+228,Marco's Pizza,"1401 Southwest Gage Boulevard, Topeka",39.041652,-95.725667
+229,Herman's Meat & Smokehouse,"2011 Southwest Huntoon Street, Topeka",39.0437085,-95.72912579999999
+230,Annie's Place,"4014 Southwest Gage Center Drive, Topeka",39.0432577,-95.7268352
+231,Wendy's,"1251 Southwest Gage Boulevard, Topeka",39.0432508,-95.72519659999999
+232,Sonic Drive-In,"1221 Southwest Gage Boulevard, Topeka",39.0443654,-95.72535450000001
+233,Herman's Meat & Smokehouse,"4211 Southwest Huntoon Street, Topeka",39.0437002,-95.7290057
+234,Skinny's Sports Bar & Grill,"4016 Southwest Huntoon Street, Topeka",39.044487,-95.72666799999999
+235,Los Charros,"4111 Southwest Gage Center Drive, Topeka",39.042607,-95.72721630000001
+236,Baking Traditions,"4036 Southwest Huntoon Street, Topeka",39.044173,-95.72679409999999
+237,McDonald's,"1201 Southwest Gage Boulevard, Topeka",39.0453464,-95.72518989999999
+238,Cook's American Grill,"1936 Southwest Gage Boulevard, Topeka",39.03184419999999,-95.7245643
+239,Schlotzsky's,"2019 Southwest Gage Boulevard, Topeka",39.0305526,-95.7259309
+240,Goodcents Deli Fresh Subs,"4210 Southwest 21st Street, Topeka",39.029675,-95.72847999999999
+241,Pizza Hut,"2119 Southwest Gage Boulevard, Topeka",39.02824080000001,-95.7252431
+242,Specks Bar & Grill,"2105 Southwest Mission Avenue, Topeka",39.029231,-95.726354
+243,Dunkin',"4009 Southwest 21st Street, Topeka",39.0291848,-95.7269628
+244,Jimmy John's,"2038 Southwest Gage Boulevard ste a, Topeka",39.0298893,-95.7246148
+245,Spangles,"2037 Southwest Gage Boulevard, Topeka",39.029737,-95.72537700000001
+246,KFC,"3920 Southwest 21st Street, Topeka",39.02985340000001,-95.72595439999999
+247,Freddy's Frozen Custard & Steakburgers,"2135 Southwest Gage Boulevard, Topeka",39.0278229,-95.7254162
+248,Real Meals To Go,"Southwest Mission Avenue, Topeka",39.0295995,-95.7264443
+249,Cook's American Grill,"1936 Southwest Gage Boulevard, Topeka",39.03184419999999,-95.7245643
+250,LaRocca's Pizza,"3100 Southwest Gage Boulevard, Topeka",39.0113119,-95.727903
+251,Sonic Drive-In,"3820 Southwest 29th Street, Topeka",39.0152444,-95.7249138
+252,Dairy Queen Grill & Chill,"3320 Southwest 29th Street, Topeka",39.0153357,-95.72012989999999
+253,LaRocca's Pizza,"3100 Southwest Gage Boulevard, Topeka",39.0113119,-95.727903
+254,Sonic Drive-In,"3820 Southwest 29th Street, Topeka",39.0152444,-95.7249138
+255,Little Caesars Pizza,"2620 Southwest 6th Avenue b, Topeka",39.0591329,-95.7076579
+256,Subway,"1151 Southwest Gage Boulevard, Topeka",39.04716070000001,-95.7250854
+257,Church's Chicken,"3001 Southwest 10th Avenue, Topeka",39.0510211,-95.7146673
+258,Papa Murphy's | Take 'N' Bake Pizza,"1035 South West, Southwest Gage Boulevard, Topeka",39.0496415,-95.725483
+259,Glory Days Pizza - Fleming Place,"1033 Southwest Gage Boulevard, Topeka",39.04983199999999,-95.725465
+260,Arby's,"1187 Southwest Gage Boulevard, Topeka",39.04607129999999,-95.7251422
+261,Fuzzy's Taco Shop,"2614 Southwest 17th Street, Topeka",39.037069,-95.710403
+262,Chez Yasu,"2701 Southwest 17th Street B, Topeka",39.036713,-95.711168
+263,Pizza Hut,"2119 Southwest Gage Boulevard, Topeka",39.02824080000001,-95.7252431
+264,Jimmy John's,"2038 Southwest Gage Boulevard ste a, Topeka",39.0298893,-95.7246148
+265,Spangles,"2037 Southwest Gage Boulevard, Topeka",39.029737,-95.72537700000001
+266,Freddy's Frozen Custard & Steakburgers,"2135 Southwest Gage Boulevard, Topeka",39.0278229,-95.7254162
+267,Cook's American Grill,"1936 Southwest Gage Boulevard, Topeka",39.03184419999999,-95.7245643
+268,Tequilas Mexican Restaurant and Bar,"2911 Southwest 29th Street, Topeka",39.01429139999999,-95.7147641
+269,Brookwood Shopping Center,"2709 Southwest 29th Street, Topeka",39.0144204,-95.7137121
+270,Dairy Queen Grill & Chill,"3320 Southwest 29th Street, Topeka",39.0153357,-95.72012989999999
+271,Saigon,"3200 Southwest 29th Street, Topeka",39.01528500000001,-95.7172253
+272,4 Guys Bar & Grill,"2835 Southwest 29th Street, Topeka",39.0141338,-95.7140307
+273,SoulFire Nutrition,"2839 Southwest 29th Street Brookwood Shopping Center, Topeka",39.0140509,-95.71391129999999
+274,Sonic Drive-In,"3820 Southwest 29th Street, Topeka",39.0152444,-95.7249138
+275,Tequilas Mexican Restaurant and Bar,"2911 Southwest 29th Street, Topeka",39.01429139999999,-95.7147641
+276,Brookwood Shopping Center,"2709 Southwest 29th Street, Topeka",39.0144204,-95.7137121
+277,SoulFire Nutrition,"2839 Southwest 29th Street Brookwood Shopping Center, Topeka",39.0140509,-95.71391129999999
+278,4 Guys Bar & Grill,"2835 Southwest 29th Street, Topeka",39.0141338,-95.7140307
+279,Saigon,"3200 Southwest 29th Street, Topeka",39.01528500000001,-95.7172253
+280,Little Caesars Pizza,"2620 Southwest 6th Avenue b, Topeka",39.0591329,-95.7076579
+281,Hardee's,"2424 Southwest 6th Avenue, Topeka",39.0590795,-95.7056157
+282,Bobo's Drive In,"2300 Southwest 10th Avenue, Topeka",39.0515383,-95.7062523
+283,Mexican Taco Shop,"1901 Southwest 10th Avenue, Topeka",39.0511206,-95.70064219999999
+284,Bobo's Drive In,"2300 Southwest 10th Avenue, Topeka",39.0515383,-95.7062523
+285,Burger King,"1800 South West, Southwest 10th Street, Topeka",39.05167499999999,-95.6995304
+286,Church's Chicken,"3001 Southwest 10th Avenue, Topeka",39.0510211,-95.7146673
+287,Fuzzy's Taco Shop,"2614 Southwest 17th Street, Topeka",39.037069,-95.710403
+288,Margarita's Jalisco,"1616 Southwest 17th Street, Topeka",39.0371215,-95.6997279
+289,Chez Yasu,"2701 Southwest 17th Street B, Topeka",39.036713,-95.711168
+290,Brookwood Shopping Center,"2709 Southwest 29th Street, Topeka",39.0144204,-95.7137121
+291,SoulFire Nutrition,"2839 Southwest 29th Street Brookwood Shopping Center, Topeka",39.0140509,-95.71391129999999
+292,4 Guys Bar & Grill,"2835 Southwest 29th Street, Topeka",39.0141338,-95.7140307
+293,The Mexican Taco Shop,"3703 Southwest Burlingame Road, Topeka",39.0002414,-95.70724829999999
+294,TACO AL'S,"1423 Southwest 6th Avenue, Topeka",39.0566406,-95.6930008
+295,Paradise Donuts,"1620 Southwest 6th Avenue, Topeka",39.0579312,-95.69538779999999
+296,7th Street Bistro,"0973601016002000, Topeka",39.0566335,-95.6965365
+297,Taco Casa,"1423 Southwest 6th Avenue, Topeka",39.0566403,-95.69302479999999
+298,Hardee's,"2424 Southwest 6th Avenue, Topeka",39.0590795,-95.7056157
+299,Burger King,"1800 South West, Southwest 10th Street, Topeka",39.05167499999999,-95.6995304
+300,Mexican Taco Shop,"1901 Southwest 10th Avenue, Topeka",39.0511206,-95.70064219999999
+301,Burger King,"1800 South West, Southwest 10th Street, Topeka",39.05167499999999,-95.6995304
+302,Claire's Courtyard,"1515 Southwest 10th Avenue, Topeka",39.05075610000001,-95.6965309
+303,Papa John's Pizza,"1700 Southwest Washburn Avenue Ste B, Topeka",39.0366141,-95.6964301
+304,The Burger Stand at College Hill,"1601 Southwest Lane Street, Topeka",39.038575,-95.6964656
+305,Margarita's Jalisco,"1616 Southwest 17th Street, Topeka",39.0371215,-95.6997279
+306,Great Wall,"1336 West 17th Street, Topeka",39.0372512,-95.69568679999999
+307,Tortilla Jack's Mexican Restaurant,"1618 Southwest Washburn Avenue, Topeka",39.0376205,-95.6960525
+308,College Hill Pizza Pub,"1418 Southwest Lane Street, Topeka",39.0403972,-95.6953207
+309,Oscar's,"1424 Southwest Lane Street, Topeka",39.0402082,-95.6954224
+310,Wing King,"1418 Southwest Lane Street, Topeka",39.0403871,-95.6952802
+311,Mcdonalds,"1611 Southwest Central Park Avenue, Topeka",39.0383226,-95.69042189999999
+312,Henry T's,"1521 Southwest 21st Street, Topeka",39.029094,-95.696444
+313,A-Hann Thai,"2222 Southwest Washburn Avenue, Topeka",39.0282618,-95.696483
+314,A-Hann Thai,"2222 Southwest Washburn Avenue, Topeka",39.0282618,-95.696483
+315,Sonic Drive-In,"2053 Southwest Western Avenue, Topeka",39.0302308,-95.68796809999999
+316,G's cheesecake and more,"821 Southwest 21st Street, Topeka",39.02945800000001,-95.688391
+317,Subway,"3217 Southwest Topeka Boulevard #3215, Topeka",39.00986049999999,-95.6882255
+318,McDonald's,"3117 South Topeka Avenue, Topeka",39.0112447,-95.68844949999999
+319,KFC,"3211 Southwest Topeka Boulevard, Topeka",39.0104106,-95.6881312
+320,Abigail's Grill & Bar,"3701 Southwest Plaza Drive, Topeka",39.0002234,-95.69211659999999
+321,Amoco,"931 Southwest 37th Street, Topeka",39.0003552,-95.69095589999999
+322,Sonic Drive-In,"3721 Southwest Topeka Boulevard, Topeka",38.9998741,-95.68842529999999
+323,Amoco,"5305 Southwest Topeka Boulevard, Topeka",38.971243,-95.68809010000001
+324,North Star,"1100 Northwest 25th Street, Topeka",39.09403770000001,-95.68021429999999
+325,The Flamingo Bar & Grill,"2335 Northwest Clay Street, Topeka",39.0926492,-95.6791185
+326,TACO AL'S,"1423 Southwest 6th Avenue, Topeka",39.0566406,-95.6930008
+327,El Caribeno Restaurant & Bakery,"616 Southwest Western Avenue, Topeka",39.05386050000001,-95.6846879
+328,Taco Casa,"1423 Southwest 6th Avenue, Topeka",39.0566403,-95.69302479999999
+329,Los Magueyes,"623 Southwest 6th Avenue, Topeka",39.0536402,-95.68180079999999
+330,Los Magueyes Mexican Food,"623 Southwest 6th Avenue, Topeka",39.0536283,-95.6817904
+331,Terry's Bar & Grill,"522 Southwest 6th Avenue, Topeka",39.0537917,-95.68011589999999
+332,Paradise Donuts,"1620 Southwest 6th Avenue, Topeka",39.0579312,-95.69538779999999
+333,Pizza Hut,"500 Southwest 10th Street, Topeka",39.0477652,-95.6818029
+334,China Express,"514 Southwest 10th Avenue, Topeka",39.0480092,-95.682345
+335,Domino's Pizza,"735 Southwest Topeka Boulevard, Topeka",39.0507082,-95.6805687
+336,Wendy's,"728 S, Southwest Topeka Boulevard, Topeka",39.0509474,-95.679509
+337,WingStreet,Topeka,39.0477024,-95.6817514
+338,El Caribeno Restaurant & Bakery,"616 Southwest Western Avenue, Topeka",39.05386050000001,-95.6846879
+339,Capitol Tower,"772 Southwest Topeka Boulevard, Topeka",39.0504136,-95.6792943
+340,Los Magueyes Mexican Food,"623 Southwest 6th Avenue, Topeka",39.0536283,-95.6817904
+341,Los Magueyes,"623 Southwest 6th Avenue, Topeka",39.0536402,-95.68180079999999
+342,Mcdonalds,"1611 Southwest Central Park Avenue, Topeka",39.0383226,-95.69042189999999
+343,Great Wall,"1336 West 17th Street, Topeka",39.0372512,-95.69568679999999
+344,College Hill Pizza Pub,"1418 Southwest Lane Street, Topeka",39.0403972,-95.6953207
+345,Wing King,"1418 Southwest Lane Street, Topeka",39.0403871,-95.6952802
+346,Oscar's,"1424 Southwest Lane Street, Topeka",39.0402082,-95.6954224
+347,Sonic Drive-In,"2053 Southwest Western Avenue, Topeka",39.0302308,-95.68796809999999
+348,"Henry's BBQ Grill in Historic Harley Davidson, Topeka","2047 Southwest Topeka Boulevard, Topeka",39.0302356,-95.6835165
+349,G's cheesecake and more,"821 Southwest 21st Street, Topeka",39.02945800000001,-95.688391
+350,Henry's BBQ Grill/Black Dog BarBQue,"2047 Southwest Topeka Boulevard, Topeka",39.0302356,-95.6835165
+351,Popeyes Louisiana Kitchen,"3001 Southwest Topeka Boulevard, Topeka",39.0142944,-95.68837459999999
+352,Tuptim Thai Restaurant,"220 Southwest 29th Street, Topeka",39.015561,-95.683236
+353,Schlotzsky's,"400 Southwest 29th Street Z, Topeka",39.0161677,-95.68697829999999
+354,Taco Bell,"101 Southeast 29th Street, Topeka",39.0147878,-95.6812978
+355,Spangles,"440 Southwest 29th Street, Topeka",39.01551919999999,-95.6869747
+356,Wok & Grill,"400 Southwest 29th Street suite u, Topeka",39.016132,-95.68667239999999
+357,Scooter's Coffee,"2909 Southwest Topeka Boulevard, Topeka",39.0137953,-95.68805859999999
+358,Kyoto Japanese & Sushi Bar,"115 Southeast 29th Street, Topeka",39.0148678,-95.6803688
+359,Subway,"3217 Southwest Topeka Boulevard #3215, Topeka",39.00986049999999,-95.6882255
+360,Denny's,"3210 Southwest Topeka Boulevard, Topeka",39.0103015,-95.6870422
+361,Popeyes Louisiana Kitchen,"3001 Southwest Topeka Boulevard, Topeka",39.0142944,-95.68837459999999
+362,Pizza Hut,"3406 Southwest Topeka Boulevard, Topeka",39.00502319999999,-95.68727109999999
+363,McDonald's,"3117 South Topeka Avenue, Topeka",39.0112447,-95.68844949999999
+364,Wendy's,"3250 Southwest Topeka Boulevard, Topeka",39.0082038,-95.687187
+365,KFC,"3211 Southwest Topeka Boulevard, Topeka",39.0104106,-95.6881312
+366,Pancho's,"3506 Southwest Topeka Boulevard, Topeka",39.004366,-95.687114
+367,El Gallo Mexican Restaurant And Cantina,"3501 Southwest Topeka Boulevard, Topeka",39.004387,-95.6881854
+368,Scooter's Coffee,"2909 Southwest Topeka Boulevard, Topeka",39.0137953,-95.68805859999999
+369,Spangles,"440 Southwest 29th Street, Topeka",39.01551919999999,-95.6869747
+370,Blind Tiger Brewery & Restaurant,"417 Southwest 37th Street, Topeka",39.000296,-95.684699
+371,Pizza Hut,"3406 Southwest Topeka Boulevard, Topeka",39.00502319999999,-95.68727109999999
+372,Burger King,"3690 Southwest Topeka Boulevard, Topeka",39.0008451,-95.68723130000001
+373,Sonic Drive-In,"3721 Southwest Topeka Boulevard, Topeka",38.9998741,-95.68842529999999
+374,Abigail's Grill & Bar,"3701 Southwest Plaza Drive, Topeka",39.0002234,-95.69211659999999
+375,Amoco,"931 Southwest 37th Street, Topeka",39.0003552,-95.69095589999999
+376,Pancho's,"3506 Southwest Topeka Boulevard, Topeka",39.004366,-95.687114
+377,El Gallo Mexican Restaurant And Cantina,"3501 Southwest Topeka Boulevard, Topeka",39.004387,-95.6881854
+378,45th Street,"4601 S Southwest Topeka Boulevard, Topeka",38.9836969,-95.6881408
+379,Boulevard Billiards,"4700 Southwest Topeka Boulevard, Topeka",38.9823668,-95.687131
+380,Amigos Topeka Mexican Restaurant,"5145 Southwest Topeka Boulevard, Topeka",38.9739676,-95.68834199999999
+381,Boulevard Billiards,"4700 Southwest Topeka Boulevard, Topeka",38.9823668,-95.687131
+382,45th Street,"4601 S Southwest Topeka Boulevard, Topeka",38.9836969,-95.6881408
+383,Amigos Topeka Mexican Restaurant,"5145 Southwest Topeka Boulevard, Topeka",38.9739676,-95.68834199999999
+384,Heartland Cafe,"5701 Southwest Topeka Boulevard, Topeka",38.96397210000001,-95.68812849999999
+385,Amoco,"5305 Southwest Topeka Boulevard, Topeka",38.971243,-95.68809010000001
+386,Banjo's Cafe,"5824 Southwest Topeka Boulevard, Topeka",38.961829,-95.686816
+387,Subway,"5916 S Topeka Blvd Next To Forbes Field, Topeka",38.96056919999999,-95.6867555
+388,Heartland Cafe,"5701 Southwest Topeka Boulevard, Topeka",38.96397210000001,-95.68812849999999
+389,Banjo's Cafe,"5824 Southwest Topeka Boulevard, Topeka",38.961829,-95.686816
+390,Subway,"2600 Northwest Rochester Road, Topeka",39.0932851,-95.6723098
+391,North Star,"1100 Northwest 25th Street, Topeka",39.09403770000001,-95.68021429999999
+392,The Flamingo Bar & Grill,"2335 Northwest Clay Street, Topeka",39.0926492,-95.6791185
+393,Subway,"2600 Northwest Rochester Road, Topeka",39.0932851,-95.6723098
+394,IHOP,"551 NW, U.S. 24, Topeka",39.090388,-95.668916
+395,Dickey's Barbecue Pit,"609 Northwest Highway 24 Road, Topeka",39.0904907,-95.6705496
+396,Spangles,"635 Northwest Highway 24 Road, Topeka",39.090643,-95.672804
+397,North Star,"1100 Northwest 25th Street, Topeka",39.09403770000001,-95.68021429999999
+398,Sonic Drive-In,"636 Nw, U.S. 24, Topeka",39.0914991,-95.6723935
+399,The Flamingo Bar & Grill,"2335 Northwest Clay Street, Topeka",39.0926492,-95.6791185
+400,Dickies Topeka,"609 Northwest Highway 24 Road, Topeka",39.0904941,-95.67056989999999
+401,Gayle's,"600 Northwest Paramore Street, Topeka",39.076664,-95.671847
+402,Rowhouse Restaurant,"515 Southwest Van Buren Street, Topeka",39.0534023,-95.676018
+403,Shana Cake,"435 South Kansas Avenue, Topeka",39.053377,-95.672933
+404,El Mezcal Restaurant,"511 Southwest Topeka Boulevard, Topeka",39.0542816,-95.6789541
+405,Terry's Bar & Grill,"522 Southwest 6th Avenue, Topeka",39.0537917,-95.68011589999999
+406,Luis' Place,"435 South Kansas Avenue, Topeka",39.0533773,-95.6729331
+407,Los Magueyes,"623 Southwest 6th Avenue, Topeka",39.0536402,-95.68180079999999
+408,Los Magueyes Mexican Food,"623 Southwest 6th Avenue, Topeka",39.0536283,-95.6817904
+409,The White Linen,"112 Southwest 6th Avenue, Topeka",39.052122,-95.6740016
+410,Rowhouse Restaurant,"515 Southwest Van Buren Street, Topeka",39.0534023,-95.676018
+411,Pizza Hut,"500 Southwest 10th Street, Topeka",39.0477652,-95.6818029
+412,McDonald's,"1100 South Kansas Avenue, Topeka",39.04384870000001,-95.6761949
+413,Subway,"935 South Kansas Avenue, Topeka",39.0462131,-95.67604689999999
+414,China Express,"514 Southwest 10th Avenue, Topeka",39.0480092,-95.682345
+415,Bwell Market,"600 Southeast Quincy Street, Topeka",39.05082489999999,-95.6715071
+416,Shana Cake,"435 South Kansas Avenue, Topeka",39.053377,-95.672933
+417,Domino's Pizza,"735 Southwest Topeka Boulevard, Topeka",39.0507082,-95.6805687
+418,Globe Indian Cuisine,"117 Southeast 10th Avenue, Topeka",39.04540540000001,-95.6749238
+419,The Celtic Fox,"118 Southwest 8th Avenue # 202, Topeka",39.0494118,-95.67551449999999
+420,Hanover Pancake House,"1034 South Kansas Avenue, Topeka",39.0446827,-95.6756686
+421,Golden Dragon,"1101 South Kansas Avenue, Topeka",39.0443552,-95.67685709999999
+422,Jersey Mike's Subs,"718 South Kansas Avenue, Topeka",39.04947500000001,-95.67397199999999
+423,The Break Room,"911 South Kansas Avenue, Topeka",39.0469737,-95.67557939999999
+424,El Mezcal Restaurant,"511 Southwest Topeka Boulevard, Topeka",39.0542816,-95.6789541
+425,Wendy's,"728 S, Southwest Topeka Boulevard, Topeka",39.0509474,-95.679509
+426,Terry's Bar & Grill,"522 Southwest 6th Avenue, Topeka",39.0537917,-95.68011589999999
+427,The Pennant,"915 South Kansas Avenue, Topeka",39.04681179999999,-95.6757564
+428,Brew Bank Topeka,"822 South Kansas Avenue, Topeka",39.0477092,-95.6743304
+429,The Weather Room,"920 South Kansas Avenue, Topeka",39.0465133,-95.67509450000001
+430,McDonald's,"1100 South Kansas Avenue, Topeka",39.04384870000001,-95.6761949
+431,Golden Dragon,"1101 South Kansas Avenue, Topeka",39.0443552,-95.67685709999999
+432,Hanover Pancake House,"1034 South Kansas Avenue, Topeka",39.0446827,-95.6756686
+433,El Centenario,"1306 South Kansas Avenue, Topeka",39.0413254,-95.6773862
+434,Globe Indian Cuisine,"117 Southeast 10th Avenue, Topeka",39.04540540000001,-95.6749238
+435,Los Mandiles Rojos,"1003 Southeast Quincy Street, Topeka",39.0451813,-95.67470229999999
+436,Mexican restaurand and Bar,"1003 Southeast Quincy Street, Topeka",39.0451813,-95.67470229999999
+437,Krispy Krunchy Chichen,"810 Southeast 15th Street, Topeka",39.0371059,-95.66784559999999
+438,Arturos Mexican Restaurant,"105 Southeast 10th Avenue, Topeka",39.04554839999999,-95.67525909999999
+439,"Henry's BBQ Grill in Historic Harley Davidson, Topeka","2047 Southwest Topeka Boulevard, Topeka",39.0302356,-95.6835165
+440,Henry's BBQ Grill/Black Dog BarBQue,"2047 Southwest Topeka Boulevard, Topeka",39.0302356,-95.6835165
+441,Tuptim Thai Restaurant,"220 Southwest 29th Street, Topeka",39.015561,-95.683236
+442,Taco Bell,"101 Southeast 29th Street, Topeka",39.0147878,-95.6812978
+443,Church's Chicken,"201 Southeast 29th Street, Topeka",39.01493079999999,-95.6771247
+444,Amoco,"2901 Southeast Fremont Street, Topeka",39.0149055,-95.6752599
+445,Kyoto Japanese & Sushi Bar,"115 Southeast 29th Street, Topeka",39.0148678,-95.6803688
+446,Church's Chicken,"201 Southeast 29th Street, Topeka",39.01493079999999,-95.6771247
+447,Amoco,"2901 Southeast Fremont Street, Topeka",39.0149055,-95.6752599
+448,Kyoto Japanese & Sushi Bar,"115 Southeast 29th Street, Topeka",39.0148678,-95.6803688
+449,Blind Tiger Brewery & Restaurant,"417 Southwest 37th Street, Topeka",39.000296,-95.684699
+450,Poppin Squeeze,"4323 Southeast Oakview Lane, Topeka",38.9890589,-95.67478249999999
+451,Subway,"2600 Northwest Rochester Road, Topeka",39.0932851,-95.6723098
+452,El Torito Topeka,"3000 Northwest Topeka Boulevard, Topeka",39.100584,-95.6630364
+453,Subway,"2600 Northwest Rochester Road, Topeka",39.0932851,-95.6723098
+454,Pizza Hut,"2310 North Topeka Avenue, Topeka",39.0893576,-95.66376799999999
+455,Hardee's,"2300 Northwest Topeka Boulevard, Topeka",39.08934989999999,-95.6638517
+456,Wing Street,"2310 Northwest Topeka Boulevard, Topeka",39.0893518,-95.66378209999999
+457,IHOP,"551 NW, U.S. 24, Topeka",39.090388,-95.668916
+458,McDonald's,"2001 N Topeka, Topeka",39.085201,-95.66597600000001
+459,Dickey's Barbecue Pit,"609 Northwest Highway 24 Road, Topeka",39.0904907,-95.6705496
+460,Taco Tico,"2102 Northwest Topeka Boulevard, Topeka",39.08799339999999,-95.66415819999999
+461,KFC,"1812 Northwest Topeka Boulevard, Topeka",39.08123620000001,-95.6664608
+462,Spangles,"635 Northwest Highway 24 Road, Topeka",39.090643,-95.672804
+463,Jimmy John's,"2007 Northwest Topeka Boulevard ste b, Topeka",39.0856758,-95.6657211
+464,Taco Bell,"2013 Northwest Topeka Boulevard, Topeka",39.0859987,-95.6655023
+465,Tequilas Mexican Restaurant & Bar,"520 Northwest Elm Row Avenue, Topeka",39.0898573,-95.6657426
+466,Wellers Grill & Bar,"222 Northwest Independence Avenue, Topeka",39.085083,-95.66328759999999
+467,Long John Silver's,"2117 Northwest Topeka Boulevard, Topeka",39.08888879999999,-95.6651007
+468,Goodcents Deli Fresh Subs,"2060 N Southwest Topeka Boulevard, Topeka",39.087353,-95.664209
+469,Wendy's,"2025 N, Northwest Topeka Boulevard, Topeka",39.0864398,-95.6653941
+470,Tequilas Mexican Restaurant,"520 Northwest Elm Row Avenue, Topeka",39.0899002,-95.6657438
+471,Papa Murphy's | Take 'N' Bake Pizza,"2037 Northwest Topeka Boulevard Suite B, Topeka",39.08707460000001,-95.66539879999999
+472,Burger King,"2110 Northwest Topeka Boulevard, Topeka",39.08847589999999,-95.663938
+473,KFC,"1812 Northwest Topeka Boulevard, Topeka",39.08123620000001,-95.6664608
+474,Hong Kong Chinese Restaurant,"1835 Northwest Topeka Boulevard, Topeka",39.0815968,-95.6676099
+475,Pad Restaurant,"1730 Northwest Topeka Boulevard, Topeka",39.0806611,-95.6664389
+476,Margarita's Jalisco North,"1835 Northwest Topeka Boulevard ste 161-a, Topeka",39.0816517,-95.6675703
+477,McDonald's,"2001 N Topeka, Topeka",39.085201,-95.66597600000001
+478,Gayle's,"600 Northwest Paramore Street, Topeka",39.076664,-95.671847
+479,Wellers Grill & Bar,"222 Northwest Independence Avenue, Topeka",39.085083,-95.66328759999999
+480,Doughboyz Pizzeria,"1312 North Kansas Avenue, Topeka",39.0733593,-95.6637488
+481,Front Door Catering,"114 Northwest Laurent Street, Topeka",39.06795369999999,-95.6672001
+482,KB's Smokehouse!,"830 North Kansas Avenue, Topeka",39.0669501,-95.66610449999999
+483,NOTO Burrito,"822 North Kansas Avenue, Topeka",39.06677579999999,-95.6665392
+484,Bradley's Corner Cafe,"844 North Kansas Avenue, Topeka",39.0675381,-95.6663095
+485,J&J's Brew & Brew Gallery Bar,"917 North Kansas Avenue, Topeka",39.06830199999999,-95.6663719
+486,The Wheel Barrel,"925 North Kansas Avenue, Topeka",39.0685499,-95.66621599999999
+487,Doughboyz Pizzeria,"1312 North Kansas Avenue, Topeka",39.0733593,-95.6637488
+488,Shana Cake,"435 South Kansas Avenue, Topeka",39.053377,-95.672933
+489,Luis' Place,"435 South Kansas Avenue, Topeka",39.0533773,-95.6729331
+490,Madison St Diner,"420 Southeast 6th Avenue, Topeka",39.0513375,-95.66788419999999
+491,Bwell Market,"600 Southeast Quincy Street, Topeka",39.05082489999999,-95.6715071
+492,Shana Cake,"435 South Kansas Avenue, Topeka",39.053377,-95.672933
+493,Jersey Mike's Subs,"718 South Kansas Avenue, Topeka",39.04947500000001,-95.67397199999999
+494,Madison St Diner,"420 Southeast 6th Avenue, Topeka",39.0513375,-95.66788419999999
+495,Zoila's Cafe,"1000 Southeast 6th Avenue, Topeka",39.0486537,-95.66072869999999
+496,The Celtic Fox,"118 Southwest 8th Avenue # 202, Topeka",39.0494118,-95.67551449999999
+497,Globe Indian Cuisine,"117 Southeast 10th Avenue, Topeka",39.04540540000001,-95.6749238
+498,Casserolle,"1116 Southeast 6th Avenue, Topeka",39.0482833,-95.6590054
+499,Brew Bank Topeka,"822 South Kansas Avenue, Topeka",39.0477092,-95.6743304
+500,HAMBURGUESAS MEXICANAS #1,"1201 Southeast 6th Avenue, Topeka",39.0477127,-95.6588085
+501,Los Magueyes Pastelleria Mexi,"1205 Southeast 6th Avenue, Topeka",39.047585,-95.658666
+502,Iron Rail Brewing,"705 South Kansas Avenue, Topeka",39.05007980000001,-95.6744962
+503,The Break Room,"911 South Kansas Avenue, Topeka",39.0469737,-95.67557939999999
+504,The White Linen,"112 Southwest 6th Avenue, Topeka",39.052122,-95.6740016
+505,The Weather Room,"920 South Kansas Avenue, Topeka",39.0465133,-95.67509450000001
+506,Luis' Place,"435 South Kansas Avenue, Topeka",39.0533773,-95.6729331
+507,Los Mandiles Rojos,"1003 Southeast Quincy Street, Topeka",39.0451813,-95.67470229999999
+508,Mexican restaurand and Bar,"1003 Southeast Quincy Street, Topeka",39.0451813,-95.67470229999999
+509,Krispy Krunchy Chichen,"810 Southeast 15th Street, Topeka",39.0371059,-95.66784559999999
+510,Nanny's Soul Food,"1000 Southeast 21st Street, Topeka",39.029961,-95.664513
+511,Ramirez Carry Out,"2041 Southeast Washington Street, Topeka",39.0299665,-95.66336869999999
+512,Poppin Squeeze,"4323 Southeast Oakview Lane, Topeka",38.9890589,-95.67478249999999
+513,El Torito Topeka,"3000 Northwest Topeka Boulevard, Topeka",39.100584,-95.6630364
+514,Pizza Hut,"2310 North Topeka Avenue, Topeka",39.0893576,-95.66376799999999
+515,Hardee's,"2300 Northwest Topeka Boulevard, Topeka",39.08934989999999,-95.6638517
+516,Wing Street,"2310 Northwest Topeka Boulevard, Topeka",39.0893518,-95.66378209999999
+517,Taco Tico,"2102 Northwest Topeka Boulevard, Topeka",39.08799339999999,-95.66415819999999
+518,Wellers Grill & Bar,"222 Northwest Independence Avenue, Topeka",39.085083,-95.66328759999999
+519,Diner 24,"2134 North Kansas Avenue, Topeka",39.0897176,-95.6597426
+520,Laurie's Short Stop,"Unnamed Road, Topeka",39.0905571,-95.65976619999999
+521,Ling's Cafe,"2022 Northwest Topeka Boulevard, Topeka",39.08615219999999,-95.66272359999999
+522,Goodcents Deli Fresh Subs,"2060 N Southwest Topeka Boulevard, Topeka",39.087353,-95.664209
+523,Burger King #26116,"2110 Northwest Topeka Boulevard, Topeka",39.08848699999999,-95.66378990000001
+524,Burger King,"2110 Northwest Topeka Boulevard, Topeka",39.08847589999999,-95.663938
+525,Long John Silver's,"2117 Northwest Topeka Boulevard, Topeka",39.08888879999999,-95.6651007
+526,Papa Murphy's | Take 'N' Bake Pizza,"2037 Northwest Topeka Boulevard Suite B, Topeka",39.08707460000001,-95.66539879999999
+527,Tequilas Mexican Restaurant & Bar,"520 Northwest Elm Row Avenue, Topeka",39.0898573,-95.6657426
+528,Wendy's,"2025 N, Northwest Topeka Boulevard, Topeka",39.0864398,-95.6653941
+529,Tequilas Mexican Restaurant,"520 Northwest Elm Row Avenue, Topeka",39.0899002,-95.6657438
+530,Pizza Parlor,"1401 Northeast Seward Avenue, Topeka",39.05865319999999,-95.6514076
+531,El Coqui criollo restaurante,"1017 Northeast Seward Avenue, Topeka",39.058675,-95.65567899999999
+532,Tacos El Sol,"2124 Southeast 6th Avenue, Topeka",39.0454139,-95.6483078
+533,Prize Package Store,"1420 Southeast 6th Avenue, Topeka",39.04742299999999,-95.65569599999999
+534,Los Magueyes Pastelleria Mexi,"1205 Southeast 6th Avenue, Topeka",39.047585,-95.658666
+535,HAMBURGUESAS MEXICANAS #1,"1201 Southeast 6th Avenue, Topeka",39.0477127,-95.6588085
+536,Casserolle,"1116 Southeast 6th Avenue, Topeka",39.0482833,-95.6590054
+537,Zoila's Cafe,"1000 Southeast 6th Avenue, Topeka",39.0486537,-95.66072869999999
+538,El Rodeo,"1706 Southeast 6th Avenue, Topeka",39.0466157,-95.6530342
+539,Taqueria El Coyote,"2121 Southeast 6th Avenue, Topeka",39.0450221,-95.64856789999999
+540,Tacos El Guitarron,"1234 Southeast California Avenue, Topeka",39.03357889999999,-95.65059180000002
+541,La Fonda,"2062 Southeast 21st Street, Topeka",39.03022560000001,-95.6507979
+542,Ramirez Carry Out,"2041 Southeast Washington Street, Topeka",39.0299665,-95.66336869999999
+543,Tacos El Mexicano,"2002 Southeast California Avenue, Topeka",39.0322473,-95.650725
+544,Nanny's Soul Food,"1000 Southeast 21st Street, Topeka",39.029961,-95.664513
+545,Tacos El Guitarron,"1234 Southeast California Avenue, Topeka",39.03357889999999,-95.65059180000002
+546,Mexicali,"2107 Southeast California Avenue, Topeka",39.0290908,-95.65159779999999
+547,Domino's Pizza,"2835 Southeast California Avenue, Topeka",39.01543989999999,-95.6521056
+548,Subway,"2005 SE 29th St Space #21, Topeka",39.0147918,-95.65042820000001
+549,Pizza Hut,"2007 Southeast 29th Street, Topeka",39.0147401,-95.6503614
+550,McDonald's,"2880 Southeast California Avenue, Topeka",39.0155332,-95.6511046
+551,Arby's,"1820 Southeast 29th Street, Topeka",39.015443,-95.65337559999999
+552,Burger King,"2817 Southeast California Avenue, Topeka",39.0165631,-95.6520499
+553,Coco Asian Chinese cuisine,"1707 Southeast 29th Street, Topeka",39.014758,-95.65528479999999
+554,EL Chilar Mexican Restaurant,"2511 Southeast California Avenue, Topeka",39.02189440000001,-95.65171959999999
+555,Coco Asian Chinese cuisine,"1707 Southeast 29th Street, Topeka",39.014758,-95.65528479999999
+556,Pizza Parlor,"1401 Northeast Seward Avenue, Topeka",39.05865319999999,-95.6514076
+557,KNJ's Sports Bar,"1909 Northeast Seward Avenue, Topeka",39.0585533,-95.64524109999999
+558,Restaurante Oaxaqueño,"2500 Northeast Seward Avenue, Topeka",39.0592121,-95.6396132
+559,El Coqui criollo restaurante,"1017 Northeast Seward Avenue, Topeka",39.058675,-95.65567899999999
+560,Tacos El Sol,"2124 Southeast 6th Avenue, Topeka",39.0454139,-95.6483078
+561,Chuckburger,"2318 Southeast 6th Avenue, Topeka",39.0449524,-95.6465836
+562,Tacos Soto,"2410 Southeast 6th Avenue, Topeka",39.0448153,-95.6456855
+563,Taqueria El Coyote,"2121 Southeast 6th Avenue, Topeka",39.0450221,-95.64856789999999
+564,El Rodeo,"1706 Southeast 6th Avenue, Topeka",39.0466157,-95.6530342
+565,Prize Package Store,"1420 Southeast 6th Avenue, Topeka",39.04742299999999,-95.65569599999999
+566,Tacos El Sol,"2124 Southeast 6th Avenue, Topeka",39.0454139,-95.6483078
+567,Tacos El Guitarron,"1234 Southeast California Avenue, Topeka",39.03357889999999,-95.65059180000002
+568,Tacos Soto,"2410 Southeast 6th Avenue, Topeka",39.0448153,-95.6456855
+569,Chuckburger,"2318 Southeast 6th Avenue, Topeka",39.0449524,-95.6465836
+570,Taqueria El Coyote,"2121 Southeast 6th Avenue, Topeka",39.0450221,-95.64856789999999
+571,Çharla Head,"3031 Southeast 10th Street, Topeka",39.0368905,-95.6379403
+572,Tacos El Mexicano,"2002 Southeast California Avenue, Topeka",39.0322473,-95.650725
+573,Tacos El Mexicano,"2002 Southeast California Avenue, Topeka",39.0322473,-95.650725
+574,La Fonda,"2062 Southeast 21st Street, Topeka",39.03022560000001,-95.6507979
+575,Tacos El Guitarron,"1234 Southeast California Avenue, Topeka",39.03357889999999,-95.65059180000002
+576,Mexicali,"2107 Southeast California Avenue, Topeka",39.0290908,-95.65159779999999
+577,Domino's Pizza,"2835 Southeast California Avenue, Topeka",39.01543989999999,-95.6521056
+578,Subway,"2005 SE 29th St Space #21, Topeka",39.0147918,-95.65042820000001
+579,Pizza Hut,"2007 Southeast 29th Street, Topeka",39.0147401,-95.6503614
+580,McDonald's,"2880 Southeast California Avenue, Topeka",39.0155332,-95.6511046
+581,Burger King,"2817 Southeast California Avenue, Topeka",39.0165631,-95.6520499
+582,Arby's,"1820 Southeast 29th Street, Topeka",39.015443,-95.65337559999999
+583,EL Chilar Mexican Restaurant,"2511 Southeast California Avenue, Topeka",39.02189440000001,-95.65171959999999
+584,Subway,"2005 SE 29th St Space #21, Topeka",39.0147918,-95.65042820000001
+585,Pizza Hut,"2007 Southeast 29th Street, Topeka",39.0147401,-95.6503614
+586,Tammy's Billard Airport Café,"3600 Northeast Sardou Avenue # 4, Topeka",39.0673979,-95.62810499999999
+587,Restaurante Oaxaqueño,"2500 Northeast Seward Avenue, Topeka",39.0592121,-95.6396132
+588,KNJ's Sports Bar,"1909 Northeast Seward Avenue, Topeka",39.0585533,-95.64524109999999
+589,Chic-A-Dee Cafe,"3036 Southeast 6th Avenue, Topeka",39.044496,-95.63770509999999
+590,La Casita Mexican Restaurant,"3032 Southeast 6th Avenue, Topeka",39.04450320000001,-95.63808139999999
+591,Poblanos Grill Cemitas poblanas Food Truck,"3035 Southeast Carnahan Avenue, Topeka",39.04394729999999,-95.6378032
+592,RESER'S Fine Foods Burrito Plant,"3139 Southeast 10th Street, Topeka",39.0366337,-95.63641030000001
+593,Çharla Head,"3031 Southeast 10th Street, Topeka",39.0368905,-95.6379403
+594,Poblanos Grill Cemitas poblanas Food Truck,"3035 Southeast Carnahan Avenue, Topeka",39.04394729999999,-95.6378032
+595,Chic-A-Dee Cafe,"3036 Southeast 6th Avenue, Topeka",39.044496,-95.63770509999999
+596,La Casita Mexican Restaurant,"3032 Southeast 6th Avenue, Topeka",39.04450320000001,-95.63808139999999
+597,Lonnie Q's BBQ,"3150 Southeast 21st Street, Topeka",39.0304817,-95.6331639
+598,The Shack II,"2842 Southeast 29th Street, Topeka",39.0163009,-95.6316753
+599,Tammy's Billard Airport Café,"3600 Northeast Sardou Avenue # 4, Topeka",39.0673979,-95.62810499999999
+600,Lonnie Q's BBQ,"3150 Southeast 21st Street, Topeka",39.0304817,-95.6331639
+601,Glory Days Pizza - Lake Shawnee,"3310 Southeast 29th Street #600, Topeka",39.015635,-95.620633
+602,The Shack II,"2842 Southeast 29th Street, Topeka",39.0163009,-95.6316753
+603,The Landing Grille & Bar,"2920 Southeast Croco Road, Topeka",39.013794,-95.613337
+604,Ling's Express,"3627 Southeast 29th Street, Topeka",39.013783,-95.612595
+605,Glory Days Pizza - Lake Shawnee,"3310 Southeast 29th Street #600, Topeka",39.015635,-95.620633
+606,Sonic Drive-In,"3520 Southeast 29th Street, Topeka",39.0157962,-95.61562839999999
+607,El Dorado Mexican Grille & Cantina,"3627 Southeast 29th Street #101, Topeka",39.0141696,-95.61218679999999
+608,Señor Bur-Rito's Taco Shop,"2841 Southeast Croco Road #100, Topeka",39.0155904,-95.614987
+609,Baker's Dozen 29th and Croco,"3627 Southeast 29th Street, Topeka",39.0139095,-95.6121913
+610,The Landing Grille & Bar,"2920 Southeast Croco Road, Topeka",39.013794,-95.613337
+611,Ling's Express,"3627 Southeast 29th Street, Topeka",39.013783,-95.612595
+612,El Dorado Mexican Grille & Cantina,"3627 Southeast 29th Street #101, Topeka",39.0141696,-95.61218679999999
+613,Baker's Dozen 29th and Croco,"3627 Southeast 29th Street, Topeka",39.0139095,-95.6121913
+614,Ling's Express,"3627 Southeast 29th Street, Topeka",39.013783,-95.612595
+615,The Landing Grille & Bar,"2920 Southeast Croco Road, Topeka",39.013794,-95.613337
+616,El Dorado Mexican Grille & Cantina,"3627 Southeast 29th Street #101, Topeka",39.0141696,-95.61218679999999
+617,Baker's Dozen 29th and Croco,"3627 Southeast 29th Street, Topeka",39.0139095,-95.6121913
+618,Señor Bur-Rito's Taco Shop,"2841 Southeast Croco Road #100, Topeka",39.0155904,-95.614987
+619,Ling's Express,"3627 Southeast 29th Street, Topeka",39.013783,-95.612595
+620,Baker's Dozen 29th and Croco,"3627 Southeast 29th Street, Topeka",39.0139095,-95.6121913
+621,El Dorado Mexican Grille & Cantina,"3627 Southeast 29th Street #101, Topeka",39.0141696,-95.61218679999999
