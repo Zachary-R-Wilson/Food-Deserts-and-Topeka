@@ -19,4 +19,5 @@ for i in range(10):
     df.drop(inplace = True,columns="Unnamed: 0")
     master_df = master_df.append(df,ignore_index=True)
 
+master_df.drop_duplicates(inplace = True, ignore_index=True)
 master_df.to_csv("../Resources/master.csv")
