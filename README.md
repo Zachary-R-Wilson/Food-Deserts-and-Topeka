@@ -14,6 +14,25 @@ As for the Census Data, we went straight to the source,<a href="https://www.cens
 <h2><a href="https://public.tableau.com/profile/adipersio#!/vizhome/TopekaFoodResouces/Dashboard?publish=yes">Tableau</a></h2>
 When it came time to put together the Tableau page, our group decided we wanted to make an interactive map of the data. This way United Way both had something to look at and the ability to choose what specifically they might need. At the bottom of the page there are two sets of bar charts. The first one is the sum of resources by census tract, and it accounts for all the data points located in each census tract. The second one is the resources by population and housing units, and it shows the data points based off of each resource per 1000 people, or homes, in a given census tract.
 
+<h2>Machine Learning</h2>
+The final section of the project was for us to build a machine learning model.
+
+<h2>Conclusion</h2>
+We concluded that our hypothesis should be rejected due as
+we didn’t not see a strong positive correlation between median household income and access to
+food resources. Our data indicated that there is actually a slight negative correlation between
+median household income and food resources meaning, if you live in a census tract with a lower
+household median income, you are slightly more likely to have access to more food resources
+than a census tract with a higher household median income. 
+<br>
+To try and explain why this occured, we took another look at the data.
+Uppon further inspection, it appears most of the Topeka, KS area census tracts
+fall into the lower end of the household median income scale, which is one reason why the food
+resources might skew towards the lower end. If we were to measure access to food resources
+against median household income across the entire US, it is possible on average we might find
+a different result. However, our results do show that population or the density of housing in a
+given area does seem to have a stronger correlation to access to food resources
+
 <h1>Built With</h1>
 <h3>Python and Tableau</h3>
  pandas, censusgeocode, Machine Learing
@@ -33,4 +52,3 @@ When it came time to put together the Tableau page, our group decided we wanted 
   <a href="https://github.com/Zachary-R-Wilson">Zachary-R-Wilson</a>
   </li>
  </ul>  
-
