@@ -1,5 +1,5 @@
 # About The Project
-Teaming up with <a href="https://unitedwaytopeka.org/">United Way</a>, a group and I where asked a question: In areas with higher median household income, will there be more
+Teaming up with <a href="https://unitedwaytopeka.org/">United Way</a>, a group and I were asked a question: In areas with higher median household income, will there be more
 food resources available in that area than areas with lower median income?
 <br>
 <br>
